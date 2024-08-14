@@ -1,7 +1,7 @@
 # Cyclone_V2
 基于STM32F4的有感/无感三相无刷电机控制
+![正面]（[https://github.com/CJstu/Cyclone_V2/blob/master/%E6%AD%A3%E9%9D%A2.png]）
 
-https://github.com/CJstu/Cyclone_V2/blob/master/%E6%AD%A3%E9%9D%A2.png
 
 ## 1. 项目简介
 本项目是基于STM32F4的有感/无感三相无刷电机控制，主要包括电机驱动、电机控制、电机参数调试、电机速度控制、电机位置控制等功能。
