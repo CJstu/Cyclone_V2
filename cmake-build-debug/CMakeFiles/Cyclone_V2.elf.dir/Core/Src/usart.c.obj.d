@@ -35,4 +35,23 @@ CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj: \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_flash_ramfunc.h \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pwr.h \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pwr_ex.h \
- E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_uart.h
+ E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_uart.h \
+ E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_usart.h \
+ E:\32_workspace\Cyclone_V2\Core\Inc/main.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/stdio.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/_ansi.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/newlib.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/config.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/machine/ieeefp.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/cdefs.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/lib/gcc/arm-none-eabi/13.3.1/include/stdarg.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/reent.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/_ansi.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/_types.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/machine/_types.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/lock.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/stdio.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/string.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/_locale.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/strings.h \
+ C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/string.h

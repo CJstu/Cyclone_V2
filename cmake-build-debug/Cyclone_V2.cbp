@@ -27,6 +27,8 @@
 					<Add option="-DDEBUG"/>
 					<Add option="-DUSE_HAL_DRIVER"/>
 					<Add option="-DSTM32F411xE"/>
+					<Add directory="E:/32_workspace/Cyclone_V2/Bsp/Inc"/>
+					<Add directory="E:/32_workspace/Cyclone_V2/App/Inc"/>
 					<Add directory="E:/32_workspace/Cyclone_V2/Core/Inc"/>
 					<Add directory="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc"/>
 					<Add directory="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"/>
@@ -56,6 +58,8 @@
 					<Add option="-DDEBUG"/>
 					<Add option="-DUSE_HAL_DRIVER"/>
 					<Add option="-DSTM32F411xE"/>
+					<Add directory="E:/32_workspace/Cyclone_V2/Bsp/Inc"/>
+					<Add directory="E:/32_workspace/Cyclone_V2/App/Inc"/>
 					<Add directory="E:/32_workspace/Cyclone_V2/Core/Inc"/>
 					<Add directory="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc"/>
 					<Add directory="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"/>
@@ -96,6 +100,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_usart.h">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_usart.c">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Inc/gpio.h">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>

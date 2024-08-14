@@ -21,6 +21,8 @@ set(CMAKE_TARGET_DEFINITIONS_ASM
 
 # The include file search paths:
 set(CMAKE_ASM_TARGET_INCLUDE_PATH
+  "E:/32_workspace/Cyclone_V2/Bsp/Inc"
+  "E:/32_workspace/Cyclone_V2/App/Inc"
   "E:/32_workspace/Cyclone_V2/Core/Inc"
   "E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc"
   "E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
@@ -30,6 +32,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_usart.c" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Core/Src/gpio.c" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Core/Src/main.c" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Core/Src/stm32f4xx_hal_msp.c" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj.d"

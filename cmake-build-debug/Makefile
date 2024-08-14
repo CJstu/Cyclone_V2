@@ -128,6 +128,30 @@ Cyclone_V2.elf/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/build
 .PHONY : Cyclone_V2.elf/fast
 
+Bsp/Src/Bsp_usart.obj: Bsp/Src/Bsp_usart.c.obj
+.PHONY : Bsp/Src/Bsp_usart.obj
+
+# target to build an object file
+Bsp/Src/Bsp_usart.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+.PHONY : Bsp/Src/Bsp_usart.c.obj
+
+Bsp/Src/Bsp_usart.i: Bsp/Src/Bsp_usart.c.i
+.PHONY : Bsp/Src/Bsp_usart.i
+
+# target to preprocess a source file
+Bsp/Src/Bsp_usart.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.i
+.PHONY : Bsp/Src/Bsp_usart.c.i
+
+Bsp/Src/Bsp_usart.s: Bsp/Src/Bsp_usart.c.s
+.PHONY : Bsp/Src/Bsp_usart.s
+
+# target to generate assembly for a file
+Bsp/Src/Bsp_usart.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.s
+.PHONY : Bsp/Src/Bsp_usart.c.s
+
 Core/Src/gpio.obj: Core/Src/gpio.c.obj
 .PHONY : Core/Src/gpio.obj
 
@@ -721,6 +745,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Cyclone_V2.elf
+	@echo ... Bsp/Src/Bsp_usart.obj
+	@echo ... Bsp/Src/Bsp_usart.i
+	@echo ... Bsp/Src/Bsp_usart.s
 	@echo ... Core/Src/gpio.obj
 	@echo ... Core/Src/gpio.i
 	@echo ... Core/Src/gpio.s

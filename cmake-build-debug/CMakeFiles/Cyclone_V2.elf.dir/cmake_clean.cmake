@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj"
+  "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj.d"
   "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj"
   "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj.d"
   "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj"

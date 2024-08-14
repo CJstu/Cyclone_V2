@@ -99,6 +99,8 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
+     Printf(USART1,"Hello World!\n");
+     HAL_Delay(1000);
   }
   /* USER CODE END 3 */
 }

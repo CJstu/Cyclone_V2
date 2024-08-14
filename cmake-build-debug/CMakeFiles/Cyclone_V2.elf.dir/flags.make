@@ -5,13 +5,13 @@
 # compile C with C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-gcc.exe
 ASM_DEFINES = -DDEBUG -DSTM32F411xE -DUSE_HAL_DRIVER
 
-ASM_INCLUDES = -IE:\32_workspace\Cyclone_V2\Core\Inc -IE:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc -IE:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy -IE:\32_workspace\Cyclone_V2\Drivers\CMSIS\Device\ST\STM32F4xx\Include -IE:\32_workspace\Cyclone_V2\Drivers\CMSIS\Include
+ASM_INCLUDES = -IE:\32_workspace\Cyclone_V2\Bsp\Inc -IE:\32_workspace\Cyclone_V2\App\Inc -IE:\32_workspace\Cyclone_V2\Core\Inc -IE:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc -IE:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy -IE:\32_workspace\Cyclone_V2\Drivers\CMSIS\Device\ST\STM32F4xx\Include -IE:\32_workspace\Cyclone_V2\Drivers\CMSIS\Include
 
 ASM_FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -x assembler-with-cpp -Og -g
 
 C_DEFINES = -DDEBUG -DSTM32F411xE -DUSE_HAL_DRIVER
 
-C_INCLUDES = -IE:\32_workspace\Cyclone_V2\Core\Inc -IE:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc -IE:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy -IE:\32_workspace\Cyclone_V2\Drivers\CMSIS\Device\ST\STM32F4xx\Include -IE:\32_workspace\Cyclone_V2\Drivers\CMSIS\Include
+C_INCLUDES = -IE:\32_workspace\Cyclone_V2\Bsp\Inc -IE:\32_workspace\Cyclone_V2\App\Inc -IE:\32_workspace\Cyclone_V2\Core\Inc -IE:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc -IE:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy -IE:\32_workspace\Cyclone_V2\Drivers\CMSIS\Device\ST\STM32F4xx\Include -IE:\32_workspace\Cyclone_V2\Drivers\CMSIS\Include
 
 C_FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
 
