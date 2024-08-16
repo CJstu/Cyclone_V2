@@ -32,6 +32,9 @@ extern "C" {
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "Bsp_usart.h"
+#include "Bsp_pwm.h"
+#include "Bsp_drv8302.h"
+#include "Bsp_rgb.h"
 /* USER CODE END Includes */
 
 /* Exported types ------------------------------------------------------------*/
@@ -57,6 +60,8 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define DRV8302_EN_GATE_Pin GPIO_PIN_15
+#define DRV8302_EN_GATE_GPIO_Port GPIOB
 
 /* USER CODE BEGIN Private defines */
 

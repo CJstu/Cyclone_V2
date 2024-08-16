@@ -100,10 +100,31 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_drv8302.h">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_pwm.h">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_rgb.h">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_usart.h">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_drv8302.c">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_pwm.c">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_rgb.c">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_usart.c">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Inc/dma.h">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Inc/gpio.h">
@@ -118,7 +139,13 @@
 		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Inc/stm32f4xx_it.h">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Inc/tim.h">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Inc/usart.h">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Src/dma.c">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Src/gpio.c">
@@ -140,6 +167,9 @@
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Src/system_stm32f4xx.c">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Src/tim.c">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Src/usart.c">
@@ -332,6 +362,9 @@
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_system.h">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h">

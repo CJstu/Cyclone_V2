@@ -128,6 +128,78 @@ Cyclone_V2.elf/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/build
 .PHONY : Cyclone_V2.elf/fast
 
+Bsp/Src/Bsp_drv8302.obj: Bsp/Src/Bsp_drv8302.c.obj
+.PHONY : Bsp/Src/Bsp_drv8302.obj
+
+# target to build an object file
+Bsp/Src/Bsp_drv8302.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
+.PHONY : Bsp/Src/Bsp_drv8302.c.obj
+
+Bsp/Src/Bsp_drv8302.i: Bsp/Src/Bsp_drv8302.c.i
+.PHONY : Bsp/Src/Bsp_drv8302.i
+
+# target to preprocess a source file
+Bsp/Src/Bsp_drv8302.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.i
+.PHONY : Bsp/Src/Bsp_drv8302.c.i
+
+Bsp/Src/Bsp_drv8302.s: Bsp/Src/Bsp_drv8302.c.s
+.PHONY : Bsp/Src/Bsp_drv8302.s
+
+# target to generate assembly for a file
+Bsp/Src/Bsp_drv8302.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.s
+.PHONY : Bsp/Src/Bsp_drv8302.c.s
+
+Bsp/Src/Bsp_pwm.obj: Bsp/Src/Bsp_pwm.c.obj
+.PHONY : Bsp/Src/Bsp_pwm.obj
+
+# target to build an object file
+Bsp/Src/Bsp_pwm.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_pwm.c.obj
+.PHONY : Bsp/Src/Bsp_pwm.c.obj
+
+Bsp/Src/Bsp_pwm.i: Bsp/Src/Bsp_pwm.c.i
+.PHONY : Bsp/Src/Bsp_pwm.i
+
+# target to preprocess a source file
+Bsp/Src/Bsp_pwm.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_pwm.c.i
+.PHONY : Bsp/Src/Bsp_pwm.c.i
+
+Bsp/Src/Bsp_pwm.s: Bsp/Src/Bsp_pwm.c.s
+.PHONY : Bsp/Src/Bsp_pwm.s
+
+# target to generate assembly for a file
+Bsp/Src/Bsp_pwm.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_pwm.c.s
+.PHONY : Bsp/Src/Bsp_pwm.c.s
+
+Bsp/Src/Bsp_rgb.obj: Bsp/Src/Bsp_rgb.c.obj
+.PHONY : Bsp/Src/Bsp_rgb.obj
+
+# target to build an object file
+Bsp/Src/Bsp_rgb.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
+.PHONY : Bsp/Src/Bsp_rgb.c.obj
+
+Bsp/Src/Bsp_rgb.i: Bsp/Src/Bsp_rgb.c.i
+.PHONY : Bsp/Src/Bsp_rgb.i
+
+# target to preprocess a source file
+Bsp/Src/Bsp_rgb.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.i
+.PHONY : Bsp/Src/Bsp_rgb.c.i
+
+Bsp/Src/Bsp_rgb.s: Bsp/Src/Bsp_rgb.c.s
+.PHONY : Bsp/Src/Bsp_rgb.s
+
+# target to generate assembly for a file
+Bsp/Src/Bsp_rgb.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.s
+.PHONY : Bsp/Src/Bsp_rgb.c.s
+
 Bsp/Src/Bsp_usart.obj: Bsp/Src/Bsp_usart.c.obj
 .PHONY : Bsp/Src/Bsp_usart.obj
 
@@ -151,6 +223,30 @@ Bsp/Src/Bsp_usart.s: Bsp/Src/Bsp_usart.c.s
 Bsp/Src/Bsp_usart.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.s
 .PHONY : Bsp/Src/Bsp_usart.c.s
+
+Core/Src/dma.obj: Core/Src/dma.c.obj
+.PHONY : Core/Src/dma.obj
+
+# target to build an object file
+Core/Src/dma.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
+.PHONY : Core/Src/dma.c.obj
+
+Core/Src/dma.i: Core/Src/dma.c.i
+.PHONY : Core/Src/dma.i
+
+# target to preprocess a source file
+Core/Src/dma.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.i
+.PHONY : Core/Src/dma.c.i
+
+Core/Src/dma.s: Core/Src/dma.c.s
+.PHONY : Core/Src/dma.s
+
+# target to generate assembly for a file
+Core/Src/dma.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.s
+.PHONY : Core/Src/dma.c.s
 
 Core/Src/gpio.obj: Core/Src/gpio.c.obj
 .PHONY : Core/Src/gpio.obj
@@ -319,6 +415,30 @@ Core/Src/system_stm32f4xx.s: Core/Src/system_stm32f4xx.c.s
 Core/Src/system_stm32f4xx.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.s
 .PHONY : Core/Src/system_stm32f4xx.c.s
+
+Core/Src/tim.obj: Core/Src/tim.c.obj
+.PHONY : Core/Src/tim.obj
+
+# target to build an object file
+Core/Src/tim.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+.PHONY : Core/Src/tim.c.obj
+
+Core/Src/tim.i: Core/Src/tim.c.i
+.PHONY : Core/Src/tim.i
+
+# target to preprocess a source file
+Core/Src/tim.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.i
+.PHONY : Core/Src/tim.c.i
+
+Core/Src/tim.s: Core/Src/tim.c.s
+.PHONY : Core/Src/tim.s
+
+# target to generate assembly for a file
+Core/Src/tim.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cyclone_V2.elf.dir\build.make CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.s
+.PHONY : Core/Src/tim.c.s
 
 Core/Src/usart.obj: Core/Src/usart.c.obj
 .PHONY : Core/Src/usart.obj
@@ -745,9 +865,21 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Cyclone_V2.elf
+	@echo ... Bsp/Src/Bsp_drv8302.obj
+	@echo ... Bsp/Src/Bsp_drv8302.i
+	@echo ... Bsp/Src/Bsp_drv8302.s
+	@echo ... Bsp/Src/Bsp_pwm.obj
+	@echo ... Bsp/Src/Bsp_pwm.i
+	@echo ... Bsp/Src/Bsp_pwm.s
+	@echo ... Bsp/Src/Bsp_rgb.obj
+	@echo ... Bsp/Src/Bsp_rgb.i
+	@echo ... Bsp/Src/Bsp_rgb.s
 	@echo ... Bsp/Src/Bsp_usart.obj
 	@echo ... Bsp/Src/Bsp_usart.i
 	@echo ... Bsp/Src/Bsp_usart.s
+	@echo ... Core/Src/dma.obj
+	@echo ... Core/Src/dma.i
+	@echo ... Core/Src/dma.s
 	@echo ... Core/Src/gpio.obj
 	@echo ... Core/Src/gpio.i
 	@echo ... Core/Src/gpio.s
@@ -769,6 +901,9 @@ help:
 	@echo ... Core/Src/system_stm32f4xx.obj
 	@echo ... Core/Src/system_stm32f4xx.i
 	@echo ... Core/Src/system_stm32f4xx.s
+	@echo ... Core/Src/tim.obj
+	@echo ... Core/Src/tim.i
+	@echo ... Core/Src/tim.s
 	@echo ... Core/Src/usart.obj
 	@echo ... Core/Src/usart.i
 	@echo ... Core/Src/usart.s

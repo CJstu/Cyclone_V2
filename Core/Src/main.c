@@ -18,6 +18,8 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
+#include "dma.h"
+#include "tim.h"
 #include "usart.h"
 #include "gpio.h"
 
@@ -87,9 +89,26 @@ int main(void)
 
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
+  MX_DMA_Init();
   MX_USART1_UART_Init();
+  MX_TIM1_Init();
+  MX_TIM3_Init();
   /* USER CODE BEGIN 2 */
+  Bsp_Drv8302_Init();
 
+  // HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_1);
+  // HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_2);
+  // HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_3);
+  //
+  // HAL_TIMEx_PWMN_Start(&htim1, TIM_CHANNEL_1);
+  // HAL_TIMEx_PWMN_Start(&htim1, TIM_CHANNEL_2);
+  // HAL_TIMEx_PWMN_Start(&htim1, TIM_CHANNEL_3);
+  //
+  // __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_1, 500);
+  // __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_2, 0);
+  // __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_3, 0);
+
+  // RGB_SetOne_Color(1, color1);
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -99,8 +118,7 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-     Printf(USART1,"Hello World!\n");
-     HAL_Delay(1000);
+
   }
   /* USER CODE END 3 */
 }

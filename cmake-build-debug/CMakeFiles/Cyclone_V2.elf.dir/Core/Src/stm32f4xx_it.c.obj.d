@@ -34,6 +34,8 @@ CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj: \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_flash_ramfunc.h \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pwr.h \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pwr_ex.h \
+ E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_tim.h \
+ E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_tim_ex.h \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_uart.h \
  E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_usart.h \
  E:\32_workspace\Cyclone_V2\Core\Inc/usart.h \
@@ -55,4 +57,7 @@ CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj: \
  C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/_locale.h \
  C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/strings.h \
  C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/string.h \
+ E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_pwm.h \
+ E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_drv8302.h \
+ E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_rgb.h \
  E:\32_workspace\Cyclone_V2\Core\Inc/stm32f4xx_it.h

@@ -33,4 +33,6 @@ CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_flash_ramfunc.h \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pwr.h \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pwr_ex.h \
+ E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_tim.h \
+ E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_tim_ex.h \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_uart.h
