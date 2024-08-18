@@ -96,19 +96,11 @@ int main(void)
   /* USER CODE BEGIN 2 */
   Bsp_Drv8302_Init();
 
-  // HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_1);
-  // HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_2);
-  // HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_3);
-  //
-  // HAL_TIMEx_PWMN_Start(&htim1, TIM_CHANNEL_1);
-  // HAL_TIMEx_PWMN_Start(&htim1, TIM_CHANNEL_2);
-  // HAL_TIMEx_PWMN_Start(&htim1, TIM_CHANNEL_3);
-  //
-  // __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_1, 500);
-  // __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_2, 0);
-  // __HAL_TIM_SetCompare(&htim1, TIM_CHANNEL_3, 0);
+  // RGB_SetOne_Color(1, color2);//RGB2
+  // RGB_SetOne_Color(0, color7);//RGB1
+  RGB_SetMore_Color(0,1,table[3]);
+  RGB_Flush();
 
-  // RGB_SetOne_Color(1, color1);
   /* USER CODE END 2 */
 
   /* Infinite loop */

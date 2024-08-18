@@ -20,7 +20,17 @@ typedef struct
     uint8_t B;
 }RGB_Color_TypeDef;
 
+
+extern RGB_Color_TypeDef table[];
+
 extern const RGB_Color_TypeDef color1;
+extern const RGB_Color_TypeDef color2;
+extern const RGB_Color_TypeDef color3;
+extern const RGB_Color_TypeDef color4;
+extern const RGB_Color_TypeDef color5;
+extern const RGB_Color_TypeDef color6;
+extern const RGB_Color_TypeDef color7;
+
 
 #define Pixel_NUM 2  //LED数量宏定义，我们灯板上有2个，
 
@@ -29,7 +39,7 @@ static void Reset_Load(void); //该函数用于将数组最后24个数据变为0
 //发送最终数组
 static void RGB_SendArray(void);
 
-static void RGB_Flush(void);  //刷新RGB显示
+void RGB_Flush(void);  //刷新RGB显示
 
 
 void RGB_SetOne_Color(uint8_t LedId,RGB_Color_TypeDef Color);//给一个LED装载24个颜色数据码（0码和1码）
@@ -39,8 +49,5 @@ void RGB_SetOne_Color(uint8_t LedId,RGB_Color_TypeDef Color);//给一个LED装�
 
 //控制多个LED显示相同的颜色
 void RGB_SetMore_Color(uint8_t head, uint8_t heal,RGB_Color_TypeDef color);
-
-
-void RGB_Show_64(void); //RGB写入函数
 
 #endif //BSP_RGB_H

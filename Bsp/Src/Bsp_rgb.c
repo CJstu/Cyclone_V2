@@ -34,16 +34,16 @@ RGB_Color_TypeDef table[16] =
    {56,94,15},
    {50,205,50},
    {160,32,240},
-    {218,60,90}
+   {218,60,90}
 };
  //这些是好看的颜色
 const RGB_Color_TypeDef color1 = {254,67,101};
-//const RGB_Color_TypeDef color2 = {76,0,10};
-//const RGB_Color_TypeDef color3 = {249,15,173};
-//const RGB_Color_TypeDef color4 = {128,0,32};
-//const RGB_Color_TypeDef color5 = {158,46,36};
-//const RGB_Color_TypeDef color6 = {184,206,142};
-//const RGB_Color_TypeDef color7 = {227,23,13};
+const RGB_Color_TypeDef color2 = {76,0,10};
+const RGB_Color_TypeDef color3 = {249,15,173};
+const RGB_Color_TypeDef color4 = {128,0,32};
+const RGB_Color_TypeDef color5 = {158,46,36};
+const RGB_Color_TypeDef color6 = {184,206,142};
+const RGB_Color_TypeDef color7 = {227,23,13};
 //const RGB_Color_TypeDef color8 = {178,34,34};
 //const RGB_Color_TypeDef color9 = {255,99,71};
 //const RGB_Color_TypeDef color10 ={99,38,18};
@@ -64,8 +64,7 @@ uint32_t Pixel_Buf[Pixel_NUM+1][24];
 */
 static void Reset_Load(void)
 {
-	uint8_t i;
-	for(i=0;i<24;i++)
+	for(uint8_t i = 0;i<24;i++)
 	{
 		Pixel_Buf[Pixel_NUM][i] = 0;
 	}
@@ -86,7 +85,7 @@ static  void RGB_SendArray(void)
 参数：LedId为LED序号，Color：定义的颜色结构体
 */
  //刷新WS2812B灯板显示函数
-static void RGB_Flush(void)
+void RGB_Flush(void)
 {
     Reset_Load();     //复位
     RGB_SendArray();  //发送数据
@@ -112,34 +111,6 @@ void RGB_SetMore_Color(uint8_t head, uint8_t heal,RGB_Color_TypeDef color)
     }
 }
 
-
-
-//用来显示单个颜色的函数，只能从第一个开始显示，不好用
-//void RGB_RED(uint16_t Pixel_Len)
-//{
-//	uint16_t i;
-//	for(i=0;i<Pixel_Len;i++)//给对应个数LED写入红色
-//	{
-//		RGB_SetOne_Color(i,RED);
-//	}
-//}
-//
-
-
-//灯管实现函数（完成本期效果的实现）
-void RGB_Show_64(void)
-{
-    RGB_SetMore_Color(0,63,BLACK);  //清空所有的LED数据
-    RGB_SetMore_Color(0,rand()%8,table[rand()%16]);  //第一行随机个灯亮随机颜色
-    RGB_SetMore_Color(8,rand()%8+8,table[rand()%16]);  //第二行。。。。以此类推
-    RGB_SetMore_Color(16,rand()%8+16,table[rand()%16]);
-    RGB_SetMore_Color(24,rand()%8+24,table[rand()%16]);
-    RGB_SetMore_Color(32,rand()%8+32,table[rand()%16]);
-    RGB_SetMore_Color(40,rand()%8+40,table[rand()%16]);
-    RGB_SetMore_Color(48,rand()%8+48,table[rand()%16]);
-    RGB_SetMore_Color(56,rand()%8+56,table[rand()%16]);
-    RGB_Flush();      //刷新WS2812B的显示
-}
 
 
 
