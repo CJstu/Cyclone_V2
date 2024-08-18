@@ -29,6 +29,9 @@ CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj: \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_dma.h \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_dma_ex.h \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_cortex.h \
+ E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_adc.h \
+ E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_ll_adc.h \
+ E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_adc_ex.h \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_flash.h \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_flash_ex.h \
  E:\32_workspace\Cyclone_V2\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_flash_ramfunc.h \
@@ -60,6 +63,10 @@ CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj: \
  E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_pwm.h \
  E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_drv8302.h \
  E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_rgb.h \
+ E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_5600.h \
+ E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_5048a.h \
+ E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_adc.h \
+ E:\32_workspace\Cyclone_V2\Core\Inc/adc.h \
  E:\32_workspace\Cyclone_V2\Core\Inc/dma.h \
  E:\32_workspace\Cyclone_V2\Core\Inc/tim.h \
  E:\32_workspace\Cyclone_V2\Core\Inc/gpio.h

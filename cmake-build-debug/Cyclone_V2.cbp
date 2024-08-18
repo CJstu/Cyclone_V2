@@ -100,6 +100,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_5048a.h">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_5600.h">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_adc.h">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_drv8302.h">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
@@ -112,6 +121,15 @@
 		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_usart.h">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_5048a.c">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_5600.c">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_adc.c">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_drv8302.c">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
@@ -122,6 +140,9 @@
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_usart.c">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Inc/adc.h">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Inc/dma.h">
@@ -143,6 +164,9 @@
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Inc/usart.h">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Src/adc.c">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Core/Src/dma.c">
@@ -289,6 +313,12 @@
 		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc.h">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc_ex.h">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
@@ -340,6 +370,9 @@
 		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
@@ -377,6 +410,12 @@
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c">
@@ -422,6 +461,9 @@
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c">
+			<Option target="Cyclone_V2.elf"/>
+		</Unit>
+		<Unit filename="E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c">
 			<Option target="Cyclone_V2.elf"/>
 		</Unit>
 		<Unit filename="E:/32_workspace/Cyclone_V2/STM32F411CEUX_FLASH.ld">

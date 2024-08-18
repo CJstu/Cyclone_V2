@@ -35,6 +35,9 @@ extern "C" {
 #include "Bsp_pwm.h"
 #include "Bsp_drv8302.h"
 #include "Bsp_rgb.h"
+#include "Bsp_5600.h"
+#include "Bsp_5048a.h"
+#include "Bsp_adc.h"
 /* USER CODE END Includes */
 
 /* Exported types ------------------------------------------------------------*/
@@ -60,6 +63,18 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define SENS3_Pin GPIO_PIN_0
+#define SENS3_GPIO_Port GPIOA
+#define SENS2_Pin GPIO_PIN_1
+#define SENS2_GPIO_Port GPIOA
+#define SENS1_Pin GPIO_PIN_2
+#define SENS1_GPIO_Port GPIOA
+#define AD_XN_Pin GPIO_PIN_3
+#define AD_XN_GPIO_Port GPIOA
+#define BR_SO1_Pin GPIO_PIN_4
+#define BR_SO1_GPIO_Port GPIOA
+#define BR_SO2_Pin GPIO_PIN_5
+#define BR_SO2_GPIO_Port GPIOA
 #define DRV8302_EN_GATE_Pin GPIO_PIN_15
 #define DRV8302_EN_GATE_GPIO_Port GPIOB
 

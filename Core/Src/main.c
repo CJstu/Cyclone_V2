@@ -18,6 +18,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
+#include "adc.h"
 #include "dma.h"
 #include "tim.h"
 #include "usart.h"
@@ -93,8 +94,10 @@ int main(void)
   MX_USART1_UART_Init();
   MX_TIM1_Init();
   MX_TIM3_Init();
+  MX_ADC1_Init();
   /* USER CODE BEGIN 2 */
   Bsp_Drv8302_Init();
+  Bsp_Adc_Init();
 
   // RGB_SetOne_Color(1, color2);//RGB2
   // RGB_SetOne_Color(0, color7);//RGB1
@@ -110,7 +113,7 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-
+    HAL_Delay(100);
   }
   /* USER CODE END 3 */
 }

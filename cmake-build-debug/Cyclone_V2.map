@@ -180,6 +180,33 @@ Discarded input sections
                 0x00000000       0xd3 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o
  .ARM.attributes
                 0x00000000       0x1c C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5048a.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5048a.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5048a.c.obj
+ .debug_info    0x00000000       0x73 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5048a.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5048a.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5048a.c.obj
+ .debug_line    0x00000000       0x4f CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5048a.c.obj
+ .debug_str     0x00000000      0x1ac CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5048a.c.obj
+ .comment       0x00000000       0x46 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5048a.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5048a.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5600.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5600.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5600.c.obj
+ .debug_info    0x00000000       0x73 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5600.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5600.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5600.c.obj
+ .debug_line    0x00000000       0x4e CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5600.c.obj
+ .debug_str     0x00000000      0x1ab CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5600.c.obj
+ .comment       0x00000000       0x46 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5600.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5600.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj
  .text          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
  .data          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
  .bss           0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
@@ -230,6 +257,11 @@ Discarded input sections
  .text.Printf   0x00000000       0x50 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
  .bss.g_USART_SendBuff
                 0x00000000      0x100 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
+ .text.HAL_ADC_MspDeInit
+                0x00000000       0x3c CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
  .text          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
  .data          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
  .bss           0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
@@ -368,6 +400,68 @@ Discarded input sections
                 0x00000000        0xc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
  .text.HAL_GetUIDw2
                 0x00000000        0xc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_MspInit
+                0x00000000        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_MspDeInit
+                0x00000000        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_DeInit
+                0x00000000       0x3a CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_Start
+                0x00000000      0x108 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_Stop
+                0x00000000       0x40 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_PollForConversion
+                0x00000000       0xb8 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_PollForEvent
+                0x00000000       0x7e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_Start_IT
+                0x00000000      0x118 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_Stop_IT
+                0x00000000       0x4c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_Stop_DMA
+                0x00000000       0x78 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_GetValue
+                0x00000000        0x6 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_AnalogWDGConfig
+                0x00000000       0x74 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_GetState
+                0x00000000        0x4 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_GetError
+                0x00000000        0x4 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .text.ADC_MultiModeDMAError
+                0x00000000       0x16 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .text.ADC_MultiModeDMAHalfConvCplt
+                0x00000000        0xa CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .text.ADC_MultiModeDMAConvCplt
+                0x00000000       0x62 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_InjectedStart
+                0x00000000      0x104 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_InjectedStart_IT
+                0x00000000      0x10c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_InjectedStop
+                0x00000000       0x62 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_InjectedPollForConversion
+                0x00000000       0xac CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_InjectedStop_IT
+                0x00000000       0x6a CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_InjectedGetValue
+                0x00000000       0x40 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_MultiModeStart_DMA
+                0x00000000      0x130 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_MultiModeStop_DMA
+                0x00000000       0x64 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_MultiModeGetValue
+                0x00000000        0xc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_InjectedConfigChannel
+                0x00000000      0x208 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_MultiModeConfigChannel
+                0x00000000       0x58 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
  .text          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .data          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .bss           0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
@@ -1141,6 +1235,14 @@ Discarded input sections
                 0x00000000       0x26 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
  .text.HAL_UARTEx_ReceiveToIdle_DMA
                 0x00000000       0x66 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj
+ .debug_line    0x00000000        0x0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj
+ .debug_str     0x00000000      0x137 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj
+ .comment       0x00000000       0x46 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj
  .data          0x00000000        0x0 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
  .bss           0x00000000        0x0 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
  .text          0x00000000        0x0 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
@@ -1978,10 +2080,14 @@ Linker script and memory map
 LOAD C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
 LOAD C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
 LOAD C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o
+LOAD CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5048a.c.obj
+LOAD CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5600.c.obj
+LOAD CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_pwm.c.obj
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+LOAD CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
@@ -1994,6 +2100,8 @@ LOAD CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+LOAD CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+LOAD CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
@@ -2009,6 +2117,7 @@ LOAD CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ha
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
 LOAD CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+LOAD CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj
 START GROUP
 LOAD C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a
 LOAD C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a
@@ -2027,7 +2136,7 @@ LOAD C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eab
                 0x08000000                g_pfnVectors
                 0x08000198                        . = ALIGN (0x4)
 
-.text           0x08000198     0x2dc0
+.text           0x08000198     0x365c
                 0x08000198                        . = ALIGN (0x4)
  *(.text)
  .text          0x08000198       0x30 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
@@ -2044,458 +2153,508 @@ LOAD C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eab
                 0x0800020c       0x28 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
  .text.frame_dummy
                 0x08000234       0x24 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text.Bsp_Adc_Init
+                0x08000258       0x18 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj
+                0x08000258                Bsp_Adc_Init
  .text.Bsp_Drv8302_Init
-                0x08000258       0x50 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
-                0x08000258                Bsp_Drv8302_Init
+                0x08000270       0x50 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
+                0x08000270                Bsp_Drv8302_Init
  .text.Reset_Load
-                0x080002a8       0x20 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
+                0x080002c0       0x20 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
  .text.RGB_SendArray
-                0x080002c8       0x18 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
+                0x080002e0       0x18 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
  .text.RGB_Flush
-                0x080002e0        0xc CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
-                0x080002e0                RGB_Flush
+                0x080002f8        0xc CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
+                0x080002f8                RGB_Flush
  .text.RGB_SetOne_Color
-                0x080002ec       0xc8 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
-                0x080002ec                RGB_SetOne_Color
+                0x08000304       0xc8 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
+                0x08000304                RGB_SetOne_Color
  .text.RGB_SetMore_Color
-                0x080003b4       0x20 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
-                0x080003b4                RGB_SetMore_Color
+                0x080003cc       0x20 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
+                0x080003cc                RGB_SetMore_Color
  .text.HAL_UART_RxCpltCallback
-                0x080003d4       0x44 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
-                0x080003d4                HAL_UART_RxCpltCallback
+                0x080003ec       0x44 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+                0x080003ec                HAL_UART_RxCpltCallback
+ .text.MX_ADC1_Init
+                0x08000430       0xf4 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
+                0x08000430                MX_ADC1_Init
+ .text.HAL_ADC_MspInit
+                0x08000524       0xc0 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
+                0x08000524                HAL_ADC_MspInit
  .text.MX_DMA_Init
-                0x08000418       0x34 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
-                0x08000418                MX_DMA_Init
+                0x080005e4       0x58 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
+                0x080005e4                MX_DMA_Init
  .text.MX_GPIO_Init
-                0x0800044c       0x80 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
-                0x0800044c                MX_GPIO_Init
+                0x0800063c       0x80 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
+                0x0800063c                MX_GPIO_Init
  .text.Error_Handler
-                0x080004cc        0x4 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
-                0x080004cc                Error_Handler
+                0x080006bc        0x4 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
+                0x080006bc                Error_Handler
  .text.SystemClock_Config
-                0x080004d0       0xa0 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
-                0x080004d0                SystemClock_Config
- .text.main     0x08000570       0x44 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
-                0x08000570                main
+                0x080006c0       0xa0 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
+                0x080006c0                SystemClock_Config
+ .text.main     0x08000760       0x54 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
+                0x08000760                main
  .text.HAL_MspInit
-                0x080005b4       0x38 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
-                0x080005b4                HAL_MspInit
+                0x080007b4       0x38 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+                0x080007b4                HAL_MspInit
  .text.NMI_Handler
-                0x080005ec        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x080005ec                NMI_Handler
+                0x080007ec        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080007ec                NMI_Handler
  .text.HardFault_Handler
-                0x080005ee        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x080005ee                HardFault_Handler
+                0x080007ee        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080007ee                HardFault_Handler
  .text.MemManage_Handler
-                0x080005f0        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x080005f0                MemManage_Handler
+                0x080007f0        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080007f0                MemManage_Handler
  .text.BusFault_Handler
-                0x080005f2        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x080005f2                BusFault_Handler
+                0x080007f2        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080007f2                BusFault_Handler
  .text.UsageFault_Handler
-                0x080005f4        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x080005f4                UsageFault_Handler
+                0x080007f4        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080007f4                UsageFault_Handler
  .text.SVC_Handler
-                0x080005f6        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x080005f6                SVC_Handler
+                0x080007f6        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080007f6                SVC_Handler
  .text.DebugMon_Handler
-                0x080005f8        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x080005f8                DebugMon_Handler
+                0x080007f8        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080007f8                DebugMon_Handler
  .text.PendSV_Handler
-                0x080005fa        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x080005fa                PendSV_Handler
+                0x080007fa        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080007fa                PendSV_Handler
  .text.SysTick_Handler
-                0x080005fc        0x8 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x080005fc                SysTick_Handler
+                0x080007fc        0x8 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080007fc                SysTick_Handler
  .text.DMA1_Stream5_IRQHandler
-                0x08000604       0x10 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x08000604                DMA1_Stream5_IRQHandler
+                0x08000804       0x10 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000804                DMA1_Stream5_IRQHandler
+ .text.ADC_IRQHandler
+                0x08000814       0x10 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000814                ADC_IRQHandler
  .text.USART1_IRQHandler
-                0x08000614       0x10 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x08000614                USART1_IRQHandler
+                0x08000824       0x10 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000824                USART1_IRQHandler
+ .text.DMA2_Stream0_IRQHandler
+                0x08000834       0x10 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000834                DMA2_Stream0_IRQHandler
  .text.SystemInit
-                0x08000624        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
-                0x08000624                SystemInit
- *fill*         0x08000626        0x2 
+                0x08000844        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x08000844                SystemInit
+ *fill*         0x08000846        0x2 
  .text.HAL_TIM_Base_MspInit
-                0x08000628       0xa4 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
-                0x08000628                HAL_TIM_Base_MspInit
+                0x08000848       0xa4 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+                0x08000848                HAL_TIM_Base_MspInit
  .text.HAL_TIM_MspPostInit
-                0x080006cc       0xbc CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
-                0x080006cc                HAL_TIM_MspPostInit
+                0x080008ec       0xbc CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+                0x080008ec                HAL_TIM_MspPostInit
  .text.MX_TIM1_Init
-                0x08000788      0x10c CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
-                0x08000788                MX_TIM1_Init
+                0x080009a8      0x10c CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+                0x080009a8                MX_TIM1_Init
  .text.MX_TIM3_Init
-                0x08000894       0xac CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
-                0x08000894                MX_TIM3_Init
+                0x08000ab4       0xac CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+                0x08000ab4                MX_TIM3_Init
  .text.MX_USART1_UART_Init
-                0x08000940       0x34 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
-                0x08000940                MX_USART1_UART_Init
+                0x08000b60       0x34 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
+                0x08000b60                MX_USART1_UART_Init
  .text.HAL_UART_MspInit
-                0x08000974       0x80 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
-                0x08000974                HAL_UART_MspInit
+                0x08000b94       0x80 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
+                0x08000b94                HAL_UART_MspInit
  .text.Reset_Handler
-                0x080009f4       0x50 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
-                0x080009f4                Reset_Handler
+                0x08000c14       0x50 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
+                0x08000c14                Reset_Handler
  .text.Default_Handler
-                0x08000a44        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
-                0x08000a44                RTC_Alarm_IRQHandler
-                0x08000a44                EXTI2_IRQHandler
-                0x08000a44                SPI4_IRQHandler
-                0x08000a44                TIM1_CC_IRQHandler
-                0x08000a44                DMA2_Stream5_IRQHandler
-                0x08000a44                PVD_IRQHandler
-                0x08000a44                SDIO_IRQHandler
-                0x08000a44                TAMP_STAMP_IRQHandler
-                0x08000a44                EXTI3_IRQHandler
-                0x08000a44                TIM1_UP_TIM10_IRQHandler
-                0x08000a44                I2C3_ER_IRQHandler
-                0x08000a44                EXTI0_IRQHandler
-                0x08000a44                I2C2_EV_IRQHandler
-                0x08000a44                DMA1_Stream2_IRQHandler
-                0x08000a44                FPU_IRQHandler
-                0x08000a44                DMA2_Stream2_IRQHandler
-                0x08000a44                SPI1_IRQHandler
-                0x08000a44                TIM1_BRK_TIM9_IRQHandler
-                0x08000a44                DMA2_Stream3_IRQHandler
-                0x08000a44                USART6_IRQHandler
-                0x08000a44                DMA2_Stream0_IRQHandler
-                0x08000a44                TIM4_IRQHandler
-                0x08000a44                I2C1_EV_IRQHandler
-                0x08000a44                DMA1_Stream6_IRQHandler
-                0x08000a44                DMA1_Stream1_IRQHandler
-                0x08000a44                TIM3_IRQHandler
-                0x08000a44                RCC_IRQHandler
-                0x08000a44                Default_Handler
-                0x08000a44                EXTI15_10_IRQHandler
-                0x08000a44                ADC_IRQHandler
-                0x08000a44                DMA1_Stream7_IRQHandler
-                0x08000a44                SPI5_IRQHandler
-                0x08000a44                TIM5_IRQHandler
-                0x08000a44                DMA2_Stream7_IRQHandler
-                0x08000a44                I2C3_EV_IRQHandler
-                0x08000a44                EXTI9_5_IRQHandler
-                0x08000a44                RTC_WKUP_IRQHandler
-                0x08000a44                SPI2_IRQHandler
-                0x08000a44                DMA1_Stream0_IRQHandler
-                0x08000a44                EXTI4_IRQHandler
-                0x08000a44                WWDG_IRQHandler
-                0x08000a44                TIM2_IRQHandler
-                0x08000a44                OTG_FS_WKUP_IRQHandler
-                0x08000a44                TIM1_TRG_COM_TIM11_IRQHandler
-                0x08000a44                EXTI1_IRQHandler
-                0x08000a44                USART2_IRQHandler
-                0x08000a44                I2C2_ER_IRQHandler
-                0x08000a44                DMA2_Stream1_IRQHandler
-                0x08000a44                FLASH_IRQHandler
-                0x08000a44                DMA2_Stream4_IRQHandler
-                0x08000a44                OTG_FS_IRQHandler
-                0x08000a44                SPI3_IRQHandler
-                0x08000a44                DMA1_Stream4_IRQHandler
-                0x08000a44                I2C1_ER_IRQHandler
-                0x08000a44                DMA2_Stream6_IRQHandler
-                0x08000a44                DMA1_Stream3_IRQHandler
- *fill*         0x08000a46        0x2 
+                0x08000c64        0x2 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
+                0x08000c64                RTC_Alarm_IRQHandler
+                0x08000c64                EXTI2_IRQHandler
+                0x08000c64                SPI4_IRQHandler
+                0x08000c64                TIM1_CC_IRQHandler
+                0x08000c64                DMA2_Stream5_IRQHandler
+                0x08000c64                PVD_IRQHandler
+                0x08000c64                SDIO_IRQHandler
+                0x08000c64                TAMP_STAMP_IRQHandler
+                0x08000c64                EXTI3_IRQHandler
+                0x08000c64                TIM1_UP_TIM10_IRQHandler
+                0x08000c64                I2C3_ER_IRQHandler
+                0x08000c64                EXTI0_IRQHandler
+                0x08000c64                I2C2_EV_IRQHandler
+                0x08000c64                DMA1_Stream2_IRQHandler
+                0x08000c64                FPU_IRQHandler
+                0x08000c64                DMA2_Stream2_IRQHandler
+                0x08000c64                SPI1_IRQHandler
+                0x08000c64                TIM1_BRK_TIM9_IRQHandler
+                0x08000c64                DMA2_Stream3_IRQHandler
+                0x08000c64                USART6_IRQHandler
+                0x08000c64                TIM4_IRQHandler
+                0x08000c64                I2C1_EV_IRQHandler
+                0x08000c64                DMA1_Stream6_IRQHandler
+                0x08000c64                DMA1_Stream1_IRQHandler
+                0x08000c64                TIM3_IRQHandler
+                0x08000c64                RCC_IRQHandler
+                0x08000c64                Default_Handler
+                0x08000c64                EXTI15_10_IRQHandler
+                0x08000c64                DMA1_Stream7_IRQHandler
+                0x08000c64                SPI5_IRQHandler
+                0x08000c64                TIM5_IRQHandler
+                0x08000c64                DMA2_Stream7_IRQHandler
+                0x08000c64                I2C3_EV_IRQHandler
+                0x08000c64                EXTI9_5_IRQHandler
+                0x08000c64                RTC_WKUP_IRQHandler
+                0x08000c64                SPI2_IRQHandler
+                0x08000c64                DMA1_Stream0_IRQHandler
+                0x08000c64                EXTI4_IRQHandler
+                0x08000c64                WWDG_IRQHandler
+                0x08000c64                TIM2_IRQHandler
+                0x08000c64                OTG_FS_WKUP_IRQHandler
+                0x08000c64                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08000c64                EXTI1_IRQHandler
+                0x08000c64                USART2_IRQHandler
+                0x08000c64                I2C2_ER_IRQHandler
+                0x08000c64                DMA2_Stream1_IRQHandler
+                0x08000c64                FLASH_IRQHandler
+                0x08000c64                DMA2_Stream4_IRQHandler
+                0x08000c64                OTG_FS_IRQHandler
+                0x08000c64                SPI3_IRQHandler
+                0x08000c64                DMA1_Stream4_IRQHandler
+                0x08000c64                I2C1_ER_IRQHandler
+                0x08000c64                DMA2_Stream6_IRQHandler
+                0x08000c64                DMA1_Stream3_IRQHandler
+ *fill*         0x08000c66        0x2 
  .text.HAL_InitTick
-                0x08000a48       0x4c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
-                0x08000a48                HAL_InitTick
+                0x08000c68       0x4c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000c68                HAL_InitTick
  .text.HAL_Init
-                0x08000a94       0x34 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
-                0x08000a94                HAL_Init
+                0x08000cb4       0x34 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000cb4                HAL_Init
  .text.HAL_IncTick
-                0x08000ac8       0x18 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
-                0x08000ac8                HAL_IncTick
+                0x08000ce8       0x18 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000ce8                HAL_IncTick
  .text.HAL_GetTick
-                0x08000ae0        0xc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
-                0x08000ae0                HAL_GetTick
+                0x08000d00        0xc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000d00                HAL_GetTick
  .text.HAL_Delay
-                0x08000aec       0x28 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
-                0x08000aec                HAL_Delay
+                0x08000d0c       0x28 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000d0c                HAL_Delay
+ .text.ADC_Init
+                0x08000d34      0x134 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_Init
+                0x08000e68       0x56 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+                0x08000e68                HAL_ADC_Init
+ *fill*         0x08000ebe        0x2 
+ .text.HAL_ADC_Start_DMA
+                0x08000ec0      0x164 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+                0x08000ec0                HAL_ADC_Start_DMA
+ .text.HAL_ADC_ConvCpltCallback
+                0x08001024        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+                0x08001024                HAL_ADC_ConvCpltCallback
+ .text.HAL_ADC_ConvHalfCpltCallback
+                0x08001026        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+                0x08001026                HAL_ADC_ConvHalfCpltCallback
+ .text.ADC_DMAHalfConvCplt
+                0x08001028        0xa CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_LevelOutOfWindowCallback
+                0x08001032        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+                0x08001032                HAL_ADC_LevelOutOfWindowCallback
+ .text.HAL_ADC_ErrorCallback
+                0x08001034        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+                0x08001034                HAL_ADC_ErrorCallback
+ .text.HAL_ADC_IRQHandler
+                0x08001036      0x142 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+                0x08001036                HAL_ADC_IRQHandler
+ .text.ADC_DMAError
+                0x08001178       0x16 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.ADC_DMAConvCplt
+                0x0800118e       0x72 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .text.HAL_ADC_ConfigChannel
+                0x08001200      0x1ac CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+                0x08001200                HAL_ADC_ConfigChannel
+ .text.HAL_ADCEx_InjectedConvCpltCallback
+                0x080013ac        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+                0x080013ac                HAL_ADCEx_InjectedConvCpltCallback
+ *fill*         0x080013ae        0x2 
  .text.__NVIC_EnableIRQ
-                0x08000b14       0x1c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x080013b0       0x1c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .text.__NVIC_SetPriority
-                0x08000b30       0x28 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x080013cc       0x28 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .text.NVIC_EncodePriority
-                0x08000b58       0x3e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- *fill*         0x08000b96        0x2 
+                0x080013f4       0x3e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ *fill*         0x08001432        0x2 
  .text.HAL_NVIC_SetPriorityGrouping
-                0x08000b98       0x24 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
-                0x08000b98                HAL_NVIC_SetPriorityGrouping
+                0x08001434       0x24 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x08001434                HAL_NVIC_SetPriorityGrouping
  .text.HAL_NVIC_SetPriority
-                0x08000bbc       0x20 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
-                0x08000bbc                HAL_NVIC_SetPriority
+                0x08001458       0x20 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x08001458                HAL_NVIC_SetPriority
  .text.HAL_NVIC_EnableIRQ
-                0x08000bdc        0x8 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
-                0x08000bdc                HAL_NVIC_EnableIRQ
+                0x08001478        0x8 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x08001478                HAL_NVIC_EnableIRQ
  .text.HAL_SYSTICK_Config
-                0x08000be4       0x28 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
-                0x08000be4                HAL_SYSTICK_Config
+                0x08001480       0x28 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x08001480                HAL_SYSTICK_Config
  .text.DMA_SetConfig
-                0x08000c0c       0x2c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x080014a8       0x2c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .text.DMA_CalcBaseAndBitshift
-                0x08000c38       0x38 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x080014d4       0x38 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .text.DMA_CheckFifoParam
-                0x08000c70       0x8e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
- *fill*         0x08000cfe        0x2 
+                0x0800150c       0x8e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ *fill*         0x0800159a        0x2 
  .text.HAL_DMA_Init
-                0x08000d00       0xcc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
-                0x08000d00                HAL_DMA_Init
+                0x0800159c       0xcc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x0800159c                HAL_DMA_Init
  .text.HAL_DMA_Start_IT
-                0x08000dcc       0x6a CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
-                0x08000dcc                HAL_DMA_Start_IT
+                0x08001668       0x6a CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x08001668                HAL_DMA_Start_IT
  .text.HAL_DMA_Abort
-                0x08000e36       0x94 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
-                0x08000e36                HAL_DMA_Abort
+                0x080016d2       0x94 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x080016d2                HAL_DMA_Abort
  .text.HAL_DMA_Abort_IT
-                0x08000eca       0x26 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
-                0x08000eca                HAL_DMA_Abort_IT
+                0x08001766       0x26 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x08001766                HAL_DMA_Abort_IT
  .text.HAL_DMA_IRQHandler
-                0x08000ef0      0x1dc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
-                0x08000ef0                HAL_DMA_IRQHandler
+                0x0800178c      0x1dc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x0800178c                HAL_DMA_IRQHandler
  .text.HAL_GPIO_Init
-                0x080010cc      0x1d0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
-                0x080010cc                HAL_GPIO_Init
+                0x08001968      0x1d0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x08001968                HAL_GPIO_Init
  .text.HAL_GPIO_WritePin
-                0x0800129c        0xc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
-                0x0800129c                HAL_GPIO_WritePin
+                0x08001b38        0xc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x08001b38                HAL_GPIO_WritePin
  .text.HAL_RCC_OscConfig
-                0x080012a8      0x3f8 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
-                0x080012a8                HAL_RCC_OscConfig
+                0x08001b44      0x3f8 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08001b44                HAL_RCC_OscConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x080016a0       0xdc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
-                0x080016a0                HAL_RCC_GetSysClockFreq
+                0x08001f3c       0xdc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08001f3c                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_ClockConfig
-                0x0800177c      0x160 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
-                0x0800177c                HAL_RCC_ClockConfig
+                0x08002018      0x160 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08002018                HAL_RCC_ClockConfig
  .text.HAL_RCC_GetHCLKFreq
-                0x080018dc        0xc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
-                0x080018dc                HAL_RCC_GetHCLKFreq
+                0x08002178        0xc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08002178                HAL_RCC_GetHCLKFreq
  .text.HAL_RCC_GetPCLK1Freq
-                0x080018e8       0x20 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
-                0x080018e8                HAL_RCC_GetPCLK1Freq
+                0x08002184       0x20 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08002184                HAL_RCC_GetPCLK1Freq
  .text.HAL_RCC_GetPCLK2Freq
-                0x08001908       0x20 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
-                0x08001908                HAL_RCC_GetPCLK2Freq
+                0x080021a4       0x20 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x080021a4                HAL_RCC_GetPCLK2Freq
  .text.TIM_OC1_SetConfig
-                0x08001928       0x54 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x080021c4       0x54 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .text.TIM_OC3_SetConfig
-                0x0800197c       0x5c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08002218       0x5c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .text.TIM_OC4_SetConfig
-                0x080019d8       0x48 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08002274       0x48 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .text.TIM_TI1_ConfigInputStage
-                0x08001a20       0x24 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x080022bc       0x24 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .text.TIM_TI2_ConfigInputStage
-                0x08001a44       0x26 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x080022e0       0x26 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .text.TIM_ITRx_SetConfig
-                0x08001a6a       0x10 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08002306       0x10 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .text.HAL_TIM_PWM_MspInit
-                0x08001a7a        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08001a7a                HAL_TIM_PWM_MspInit
+                0x08002316        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08002316                HAL_TIM_PWM_MspInit
  .text.HAL_TIM_PWM_PulseFinishedCallback
-                0x08001a7c        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08001a7c                HAL_TIM_PWM_PulseFinishedCallback
+                0x08002318        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08002318                HAL_TIM_PWM_PulseFinishedCallback
  .text.TIM_DMADelayPulseCplt
-                0x08001a7e       0x70 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x0800231a       0x70 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .text.HAL_TIM_PWM_PulseFinishedHalfCpltCallback
-                0x08001aee        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08001aee                HAL_TIM_PWM_PulseFinishedHalfCpltCallback
+                0x0800238a        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x0800238a                HAL_TIM_PWM_PulseFinishedHalfCpltCallback
  .text.TIM_DMADelayPulseHalfCplt
-                0x08001af0       0x3e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08001af0                TIM_DMADelayPulseHalfCplt
+                0x0800238c       0x3e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x0800238c                TIM_DMADelayPulseHalfCplt
  .text.HAL_TIM_ErrorCallback
-                0x08001b2e        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08001b2e                HAL_TIM_ErrorCallback
+                0x080023ca        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x080023ca                HAL_TIM_ErrorCallback
  .text.TIM_DMAError
-                0x08001b30       0x5c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08001b30                TIM_DMAError
+                0x080023cc       0x5c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x080023cc                TIM_DMAError
  .text.TIM_Base_SetConfig
-                0x08001b8c       0xac CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08001b8c                TIM_Base_SetConfig
+                0x08002428       0xac CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08002428                TIM_Base_SetConfig
  .text.HAL_TIM_Base_Init
-                0x08001c38       0x58 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08001c38                HAL_TIM_Base_Init
+                0x080024d4       0x58 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x080024d4                HAL_TIM_Base_Init
  .text.HAL_TIM_PWM_Init
-                0x08001c90       0x58 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08001c90                HAL_TIM_PWM_Init
+                0x0800252c       0x58 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x0800252c                HAL_TIM_PWM_Init
  .text.TIM_OC2_SetConfig
-                0x08001ce8       0x5c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08001ce8                TIM_OC2_SetConfig
+                0x08002584       0x5c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08002584                TIM_OC2_SetConfig
  .text.HAL_TIM_PWM_ConfigChannel
-                0x08001d44       0xdc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08001d44                HAL_TIM_PWM_ConfigChannel
+                0x080025e0       0xdc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x080025e0                HAL_TIM_PWM_ConfigChannel
  .text.TIM_ETR_SetConfig
-                0x08001e20       0x18 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08001e20                TIM_ETR_SetConfig
+                0x080026bc       0x18 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x080026bc                TIM_ETR_SetConfig
  .text.HAL_TIM_ConfigClockSource
-                0x08001e38       0xfe CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08001e38                HAL_TIM_ConfigClockSource
+                0x080026d4       0xfe CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x080026d4                HAL_TIM_ConfigClockSource
  .text.TIM_CCxChannelCmd
-                0x08001f36       0x1e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08001f36                TIM_CCxChannelCmd
+                0x080027d2       0x1e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x080027d2                TIM_CCxChannelCmd
  .text.HAL_TIM_PWM_Start
-                0x08001f54       0xf0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08001f54                HAL_TIM_PWM_Start
+                0x080027f0       0xf0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x080027f0                HAL_TIM_PWM_Start
  .text.HAL_TIM_PWM_Start_DMA
-                0x08002044      0x280 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                0x08002044                HAL_TIM_PWM_Start_DMA
+                0x080028e0      0x280 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x080028e0                HAL_TIM_PWM_Start_DMA
  .text.TIM_CCxNChannelCmd
-                0x080022c4       0x1e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
- *fill*         0x080022e2        0x2 
+                0x08002b60       0x1e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ *fill*         0x08002b7e        0x2 
  .text.HAL_TIMEx_OCN_Start
-                0x080022e4       0xe8 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
-                0x080022e4                HAL_TIMEx_OCN_Start
+                0x08002b80       0xe8 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+                0x08002b80                HAL_TIMEx_OCN_Start
  .text.HAL_TIMEx_MasterConfigSynchronization
-                0x080023cc       0x7c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
-                0x080023cc                HAL_TIMEx_MasterConfigSynchronization
+                0x08002c68       0x7c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+                0x08002c68                HAL_TIMEx_MasterConfigSynchronization
  .text.HAL_TIMEx_ConfigBreakDeadTime
-                0x08002448       0x52 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
-                0x08002448                HAL_TIMEx_ConfigBreakDeadTime
+                0x08002ce4       0x52 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+                0x08002ce4                HAL_TIMEx_ConfigBreakDeadTime
  .text.UART_EndRxTransfer
-                0x0800249a       0x5c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08002d36       0x5c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
  .text.UART_Transmit_IT
-                0x080024f6       0x60 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
- *fill*         0x08002556        0x2 
+                0x08002d92       0x60 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ *fill*         0x08002df2        0x2 
  .text.UART_SetConfig
-                0x08002558      0x110 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08002df4      0x110 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
  .text.HAL_UART_Init
-                0x08002668       0x60 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
-                0x08002668                HAL_UART_Init
+                0x08002f04       0x60 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08002f04                HAL_UART_Init
  .text.HAL_UART_TxCpltCallback
-                0x080026c8        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
-                0x080026c8                HAL_UART_TxCpltCallback
+                0x08002f64        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08002f64                HAL_UART_TxCpltCallback
  .text.UART_EndTransmit_IT
-                0x080026ca       0x1a CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08002f66       0x1a CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
  .text.HAL_UART_ErrorCallback
-                0x080026e4        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
-                0x080026e4                HAL_UART_ErrorCallback
+                0x08002f80        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08002f80                HAL_UART_ErrorCallback
  .text.UART_DMAAbortOnError
-                0x080026e6       0x10 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08002f82       0x10 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
  .text.HAL_UARTEx_RxEventCallback
-                0x080026f6        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
-                0x080026f6                HAL_UARTEx_RxEventCallback
+                0x08002f92        0x2 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08002f92                HAL_UARTEx_RxEventCallback
  .text.UART_Receive_IT
-                0x080026f8       0xe6 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
- *fill*         0x080027de        0x2 
+                0x08002f94       0xe6 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ *fill*         0x0800307a        0x2 
  .text.HAL_UART_IRQHandler
-                0x080027e0      0x284 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
-                0x080027e0                HAL_UART_IRQHandler
+                0x0800307c      0x284 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x0800307c                HAL_UART_IRQHandler
  .text.UART_Start_Receive_IT
-                0x08002a64       0x36 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
-                0x08002a64                UART_Start_Receive_IT
+                0x08003300       0x36 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08003300                UART_Start_Receive_IT
  .text.HAL_UART_Receive_IT
-                0x08002a9a       0x26 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
-                0x08002a9a                HAL_UART_Receive_IT
+                0x08003336       0x26 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08003336                HAL_UART_Receive_IT
  .text.__udivmoddi4
-                0x08002ac0      0x2bc C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
-                0x08002ac0                __udivmoddi4
- .text.memset   0x08002d7c       0xa4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
-                0x08002d7c                memset
+                0x0800335c      0x2bc C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x0800335c                __udivmoddi4
+ .text.memset   0x08003618       0xa4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+                0x08003618                memset
  .text.__libc_init_array
-                0x08002e20       0x50 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
-                0x08002e20                __libc_init_array
+                0x080036bc       0x50 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+                0x080036bc                __libc_init_array
  .text.__retarget_lock_acquire_recursive
-                0x08002e70        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
-                0x08002e70                __retarget_lock_acquire_recursive
+                0x0800370c        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+                0x0800370c                __retarget_lock_acquire_recursive
  .text.__retarget_lock_release_recursive
-                0x08002e74        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
-                0x08002e74                __retarget_lock_release_recursive
+                0x08003710        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+                0x08003710                __retarget_lock_release_recursive
  .text.startup.register_fini
-                0x08002e78       0x14 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
- .text.atexit   0x08002e8c        0xc C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
-                0x08002e8c                atexit
+                0x08003714       0x14 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .text.atexit   0x08003728        0xc C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+                0x08003728                atexit
  .text.__libc_fini_array
-                0x08002e98       0x28 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
-                0x08002e98                __libc_fini_array
+                0x08003734       0x28 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+                0x08003734                __libc_fini_array
  .text.__register_exitproc
-                0x08002ec0       0x80 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
-                0x08002ec0                __register_exitproc
+                0x0800375c       0x80 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+                0x0800375c                __register_exitproc
  *(.glue_7)
- .glue_7        0x08002f40        0x0 linker stubs
+ .glue_7        0x080037dc        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x08002f40        0x0 linker stubs
+ .glue_7t       0x080037dc        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x08002f40        0x0 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .eh_frame      0x080037dc        0x0 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
  *(.init)
- .init          0x08002f40        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
-                0x08002f40                _init
- .init          0x08002f44        0x8 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
+ .init          0x080037dc        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
+                0x080037dc                _init
+ .init          0x080037e0        0x8 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
  *(.fini)
- .fini          0x08002f4c        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
-                0x08002f4c                _fini
- .fini          0x08002f50        0x8 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
-                0x08002f58                        . = ALIGN (0x4)
-                0x08002f58                        _etext = .
+ .fini          0x080037e8        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
+                0x080037e8                _fini
+ .fini          0x080037ec        0x8 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
+                0x080037f4                        . = ALIGN (0x4)
+                0x080037f4                        _etext = .
 
-.vfp11_veneer   0x08002f58        0x0
- .vfp11_veneer  0x08002f58        0x0 linker stubs
+.vfp11_veneer   0x080037f4        0x0
+ .vfp11_veneer  0x080037f4        0x0 linker stubs
 
-.v4_bx          0x08002f58        0x0
- .v4_bx         0x08002f58        0x0 linker stubs
+.v4_bx          0x080037f4        0x0
+ .v4_bx         0x080037f4        0x0 linker stubs
 
-.iplt           0x08002f58        0x0
- .iplt          0x08002f58        0x0 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+.iplt           0x080037f4        0x0
+ .iplt          0x080037f4        0x0 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
 
-.rodata         0x08002f58       0x20
-                0x08002f58                        . = ALIGN (0x4)
+.rodata         0x080037f4       0x20
+                0x080037f4                        . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
  .rodata.APBPrescTable
-                0x08002f58        0x8 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
-                0x08002f58                APBPrescTable
+                0x080037f4        0x8 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x080037f4                APBPrescTable
  .rodata.AHBPrescTable
-                0x08002f60       0x10 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
-                0x08002f60                AHBPrescTable
+                0x080037fc       0x10 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x080037fc                AHBPrescTable
  .rodata.flagBitshiftOffset.0
-                0x08002f70        0x8 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
-                0x08002f78                        . = ALIGN (0x4)
+                0x0800380c        0x8 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x08003814                        . = ALIGN (0x4)
 
-.ARM.extab      0x08002f78        0x0
-                0x08002f78                        . = ALIGN (0x4)
+.ARM.extab      0x08003814        0x0
+                0x08003814                        . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x08002f78                        . = ALIGN (0x4)
+                0x08003814                        . = ALIGN (0x4)
 
-.ARM            0x08002f78        0x8
-                0x08002f78                        . = ALIGN (0x4)
-                0x08002f78                        __exidx_start = .
+.ARM            0x08003814        0x8
+                0x08003814                        . = ALIGN (0x4)
+                0x08003814                        __exidx_start = .
  *(.ARM.exidx*)
  .ARM.exidx.text.__udivmoddi4
-                0x08002f78        0x8 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
-                0x08002f80                        __exidx_end = .
-                0x08002f80                        . = ALIGN (0x4)
+                0x08003814        0x8 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x0800381c                        __exidx_end = .
+                0x0800381c                        . = ALIGN (0x4)
 
-.preinit_array  0x08002f80        0x0
-                0x08002f80                        . = ALIGN (0x4)
-                0x08002f80                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x0800381c        0x0
+                0x0800381c                        . = ALIGN (0x4)
+                0x0800381c                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x08002f80                        PROVIDE (__preinit_array_end = .)
-                0x08002f80                        . = ALIGN (0x4)
+                0x0800381c                        PROVIDE (__preinit_array_end = .)
+                0x0800381c                        . = ALIGN (0x4)
 
-.init_array     0x08002f80        0x8
-                0x08002f80                        . = ALIGN (0x4)
-                0x08002f80                        PROVIDE (__init_array_start = .)
+.init_array     0x0800381c        0x8
+                0x0800381c                        . = ALIGN (0x4)
+                0x0800381c                        PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  .init_array.00000
-                0x08002f80        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+                0x0800381c        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
  *(.init_array*)
- .init_array    0x08002f84        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
-                0x08002f88                        PROVIDE (__init_array_end = .)
-                0x08002f88                        . = ALIGN (0x4)
+ .init_array    0x08003820        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08003824                        PROVIDE (__init_array_end = .)
+                0x08003824                        . = ALIGN (0x4)
 
-.fini_array     0x08002f88        0x4
-                0x08002f88                        . = ALIGN (0x4)
-                0x08002f88                        PROVIDE (__fini_array_start = .)
+.fini_array     0x08003824        0x4
+                0x08003824                        . = ALIGN (0x4)
+                0x08003824                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08002f88        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
-                0x08002f8c                        PROVIDE (__fini_array_end = .)
-                0x08002f8c                        . = ALIGN (0x4)
-                0x08002f8c                        _sidata = LOADADDR (.data)
+ .fini_array    0x08003824        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08003828                        PROVIDE (__fini_array_end = .)
+                0x08003828                        . = ALIGN (0x4)
+                0x08003828                        _sidata = LOADADDR (.data)
 
-.rel.dyn        0x08002f8c        0x0
- .rel.iplt      0x08002f8c        0x0 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+.rel.dyn        0x08003828        0x0
+ .rel.iplt      0x08003828        0x0 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
 
-.data           0x20000000       0x40 load address 0x08002f8c
+.data           0x20000000       0x40 load address 0x08003828
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        _sdata = .
  *(.data)
@@ -2521,17 +2680,17 @@ LOAD C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eab
                 0x20000040                        _edata = .
 
 .tm_clone_table
-                0x20000040        0x0 load address 0x08002fcc
+                0x20000040        0x0 load address 0x08003868
  .tm_clone_table
                 0x20000040        0x0 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
  .tm_clone_table
                 0x20000040        0x0 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtend.o
 
-.igot.plt       0x20000040        0x0 load address 0x08002fcc
+.igot.plt       0x20000040        0x0 load address 0x08003868
  .igot.plt      0x20000040        0x0 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
                 0x20000040                        . = ALIGN (0x4)
 
-.bss            0x20000040      0x618 load address 0x08002fcc
+.bss            0x20000040      0x6cc load address 0x08003868
                 0x20000040                        _sbss = .
                 0x20000040                        __bss_start__ = _sbss
  *(.bss)
@@ -2540,57 +2699,65 @@ LOAD C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eab
                 0x20000040        0x1 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
  *fill*         0x20000041        0x3 
  .bss.object.0  0x20000044       0x18 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss.adcBuf    0x2000005c        0xc CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj
+                0x2000005c                adcBuf
  .bss.Pixel_Buf
-                0x2000005c      0x120 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
-                0x2000005c                Pixel_Buf
+                0x20000068      0x120 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
+                0x20000068                Pixel_Buf
  .bss.usart_cmd_rx_buffer
-                0x2000017c       0xff CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
-                0x2000017c                usart_cmd_rx_buffer
- *fill*         0x2000027b        0x1 
- .bss.CMD_Flag  0x2000027c        0x4 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
-                0x2000027c                CMD_Flag
+                0x20000188       0xff CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+                0x20000188                usart_cmd_rx_buffer
+ *fill*         0x20000287        0x1 
+ .bss.CMD_Flag  0x20000288        0x4 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+                0x20000288                CMD_Flag
  .bss.CMD_Buffer_Count
-                0x20000280        0x4 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
-                0x20000280                CMD_Buffer_Count
+                0x2000028c        0x4 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+                0x2000028c                CMD_Buffer_Count
  .bss.CMD_Buffer
-                0x20000284       0xff CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
-                0x20000284                CMD_Buffer
- *fill*         0x20000383        0x1 
+                0x20000290       0xff CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+                0x20000290                CMD_Buffer
+ *fill*         0x2000038f        0x1 
+ .bss.hdma_adc1
+                0x20000390       0x60 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
+                0x20000390                hdma_adc1
+ .bss.hadc1     0x200003f0       0x48 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
+                0x200003f0                hadc1
  .bss.hdma_tim3_ch2
-                0x20000384       0x60 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
-                0x20000384                hdma_tim3_ch2
- .bss.htim3     0x200003e4       0x48 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
-                0x200003e4                htim3
- .bss.htim1     0x2000042c       0x48 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
-                0x2000042c                htim1
- .bss.huart1    0x20000474       0x48 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
-                0x20000474                huart1
- .bss.uwTick    0x200004bc        0x4 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
-                0x200004bc                uwTick
+                0x20000438       0x60 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+                0x20000438                hdma_tim3_ch2
+ .bss.htim3     0x20000498       0x48 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+                0x20000498                htim3
+ .bss.htim1     0x200004e0       0x48 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+                0x200004e0                htim1
+ .bss.huart1    0x20000528       0x48 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
+                0x20000528                huart1
+ .bss.uwTick    0x20000570        0x4 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x20000570                uwTick
  .bss.__lock___atexit_recursive_mutex
-                0x200004c0        0x1 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
-                0x200004c0                __lock___atexit_recursive_mutex
- *fill*         0x200004c1        0x3 
- .bss.__atexit  0x200004c4        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
-                0x200004c4                __atexit
+                0x20000574        0x1 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+                0x20000574                __lock___atexit_recursive_mutex
+ *fill*         0x20000575        0x3 
+ .bss.__atexit  0x20000578        0x4 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+                0x20000578                __atexit
  .bss.__atexit0
-                0x200004c8      0x190 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
-                0x200004c8                __atexit0
+                0x2000057c      0x190 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+                0x2000057c                __atexit0
  *(COMMON)
-                0x20000658                        . = ALIGN (0x4)
-                0x20000658                        _ebss = .
-                0x20000658                        __bss_end__ = _ebss
+                0x2000070c                        . = ALIGN (0x4)
+                0x2000070c                        _ebss = .
+                0x2000070c                        __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x20000658      0x600 load address 0x08002fcc
-                0x20000658                        . = ALIGN (0x8)
+                0x2000070c      0x604 load address 0x08003868
+                0x20000710                        . = ALIGN (0x8)
+ *fill*         0x2000070c        0x4 
                 [!provide]                        PROVIDE (end = .)
-                0x20000658                        PROVIDE (_end = .)
-                0x20000858                        . = (. + _Min_Heap_Size)
- *fill*         0x20000658      0x200 
-                0x20000c58                        . = (. + _Min_Stack_Size)
- *fill*         0x20000858      0x400 
-                0x20000c58                        . = ALIGN (0x8)
+                0x20000710                        PROVIDE (_end = .)
+                0x20000910                        . = (. + _Min_Heap_Size)
+ *fill*         0x20000710      0x200 
+                0x20000d10                        . = (. + _Min_Stack_Size)
+ *fill*         0x20000910      0x400 
+                0x20000d10                        . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -2605,254 +2772,296 @@ LOAD C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eab
  .ARM.attributes
                 0x0000001e       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
  .ARM.attributes
-                0x0000004c       0x2e CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
+                0x0000004c       0x2e CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj
  .ARM.attributes
-                0x0000007a       0x2e CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
+                0x0000007a       0x2e CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
  .ARM.attributes
-                0x000000a8       0x2e CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+                0x000000a8       0x2e CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
  .ARM.attributes
-                0x000000d6       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
+                0x000000d6       0x2e CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
  .ARM.attributes
-                0x00000104       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
+                0x00000104       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
  .ARM.attributes
-                0x00000132       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
+                0x00000132       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
  .ARM.attributes
-                0x00000160       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+                0x00000160       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
  .ARM.attributes
-                0x0000018e       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x0000018e       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
  .ARM.attributes
-                0x000001bc       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x000001bc       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
  .ARM.attributes
-                0x000001ea       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+                0x000001ea       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
  .ARM.attributes
-                0x00000218       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
+                0x00000218       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
  .ARM.attributes
-                0x00000246       0x21 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
+                0x00000246       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
  .ARM.attributes
-                0x00000267       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x00000274       0x2e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
  .ARM.attributes
-                0x00000295       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x000002a2       0x21 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
  .ARM.attributes
-                0x000002c3       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x000002c3       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
  .ARM.attributes
-                0x000002f1       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x000002f1       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
  .ARM.attributes
-                0x0000031f       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x0000031f       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
  .ARM.attributes
-                0x0000034d       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x0000034d       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .ARM.attributes
-                0x0000037b       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+                0x0000037b       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .ARM.attributes
-                0x000003a9       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x000003a9       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
  .ARM.attributes
-                0x000003d7       0x1e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                0x000003d7       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
  .ARM.attributes
-                0x000003f5       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x00000405       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .ARM.attributes
-                0x00000423       0x1e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x00000433       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
  .ARM.attributes
-                0x00000441       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+                0x00000461       0x2e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
  .ARM.attributes
-                0x0000046f       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+                0x0000048f       0x1e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
  .ARM.attributes
-                0x0000049d       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+                0x000004ad       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
  .ARM.attributes
-                0x000004cb       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+                0x000004db       0x1e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
  .ARM.attributes
-                0x000004f9       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+                0x000004f9       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
  .ARM.attributes
-                0x00000527       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+                0x00000527       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
  .ARM.attributes
-                0x00000555       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+                0x00000555       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
  .ARM.attributes
-                0x00000583       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtend.o
+                0x00000583       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
  .ARM.attributes
-                0x000005b1       0x1e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
+                0x000005b1       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .ARM.attributes
+                0x000005df       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .ARM.attributes
+                0x0000060d       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+ .ARM.attributes
+                0x0000063b       0x2e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000669       0x1e C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
 OUTPUT(Cyclone_V2.elf elf32-littlearm)
 LOAD linker stubs
 LOAD C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc.a
 LOAD C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libm.a
 LOAD C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a
 
-.debug_info     0x00000000    0x11ec9
- .debug_info    0x00000000      0x874 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
- .debug_info    0x00000874      0x9c7 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
- .debug_info    0x0000123b      0x7c7 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
- .debug_info    0x00001a02      0x478 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
- .debug_info    0x00001e7a      0x455 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
- .debug_info    0x000022cf      0x646 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
- .debug_info    0x00002915      0x294 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_info    0x00002ba9      0x69c CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_info    0x00003245      0x35c CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_info    0x000035a1     0x1090 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
- .debug_info    0x00004631      0xbda CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
- .debug_info    0x0000520b       0x30 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
- .debug_info    0x0000523b      0x962 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_info    0x00005b9d      0xf32 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_info    0x00006acf      0xad8 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
- .debug_info    0x000075a7      0x73a CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_info    0x00007ce1      0xab0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_info    0x00008791     0x3c4c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
- .debug_info    0x0000c3dd     0x1ae5 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
- .debug_info    0x0000dec2     0x4007 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+.debug_info     0x00000000    0x150cf
+ .debug_info    0x00000000      0x633 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj
+ .debug_info    0x00000633      0x874 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
+ .debug_info    0x00000ea7      0x9c7 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
+ .debug_info    0x0000186e      0x7c7 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+ .debug_info    0x00002035      0xd9e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
+ .debug_info    0x00002dd3      0x4c6 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
+ .debug_info    0x00003299      0x455 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
+ .debug_info    0x000036ee      0x686 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x00003d74      0x294 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_info    0x00004008      0x95d CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_info    0x00004965      0x35c CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_info    0x00004cc1     0x1090 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+ .debug_info    0x00005d51      0xbda CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
+ .debug_info    0x0000692b       0x30 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
+ .debug_info    0x0000695b      0x962 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_info    0x000072bd      0xe7f CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .debug_info    0x0000813c      0xc67 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .debug_info    0x00008da3      0xf32 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_info    0x00009cd5      0xad8 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_info    0x0000a7ad      0x73a CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_info    0x0000aee7      0xab0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_info    0x0000b997     0x3c4c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_info    0x0000f5e3     0x1ae5 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_info    0x000110c8     0x4007 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
 
-.debug_abbrev   0x00000000     0x28c4
- .debug_abbrev  0x00000000      0x1bf CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
- .debug_abbrev  0x000001bf      0x25e CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
- .debug_abbrev  0x0000041d      0x22d CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
- .debug_abbrev  0x0000064a      0x12b CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
- .debug_abbrev  0x00000775      0x163 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
- .debug_abbrev  0x000008d8      0x215 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
- .debug_abbrev  0x00000aed       0xd6 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_abbrev  0x00000bc3      0x18b CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_abbrev  0x00000d4e      0x120 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_abbrev  0x00000e6e      0x265 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
- .debug_abbrev  0x000010d3      0x235 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
- .debug_abbrev  0x00001308       0x24 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
- .debug_abbrev  0x0000132c      0x277 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_abbrev  0x000015a3      0x39c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_abbrev  0x0000193f      0x27d CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
- .debug_abbrev  0x00001bbc      0x201 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_abbrev  0x00001dbd      0x2c5 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_abbrev  0x00002082      0x284 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
- .debug_abbrev  0x00002306      0x282 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
- .debug_abbrev  0x00002588      0x33c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+.debug_abbrev   0x00000000     0x3118
+ .debug_abbrev  0x00000000      0x142 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj
+ .debug_abbrev  0x00000142      0x1bf CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
+ .debug_abbrev  0x00000301      0x25e CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
+ .debug_abbrev  0x0000055f      0x22d CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+ .debug_abbrev  0x0000078c      0x241 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
+ .debug_abbrev  0x000009cd      0x12d CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
+ .debug_abbrev  0x00000afa      0x163 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x00000c5d      0x21f CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x00000e7c       0xd6 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_abbrev  0x00000f52      0x18b CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_abbrev  0x000010dd      0x120 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_abbrev  0x000011fd      0x265 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+ .debug_abbrev  0x00001462      0x235 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
+ .debug_abbrev  0x00001697       0x24 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
+ .debug_abbrev  0x000016bb      0x277 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_abbrev  0x00001932      0x234 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .debug_abbrev  0x00001b66      0x291 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .debug_abbrev  0x00001df7      0x39c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_abbrev  0x00002193      0x27d CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_abbrev  0x00002410      0x201 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_abbrev  0x00002611      0x2c5 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_abbrev  0x000028d6      0x284 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_abbrev  0x00002b5a      0x282 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x00002ddc      0x33c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
 
-.debug_aranges  0x00000000      0xcd0
+.debug_aranges  0x00000000      0xea8
  .debug_aranges
-                0x00000000       0x20 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
+                0x00000000       0x20 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj
  .debug_aranges
-                0x00000020       0x40 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
+                0x00000020       0x20 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
  .debug_aranges
-                0x00000060       0x28 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+                0x00000040       0x40 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
  .debug_aranges
-                0x00000088       0x20 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
+                0x00000080       0x28 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
  .debug_aranges
-                0x000000a8       0x20 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
+                0x000000a8       0x30 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
  .debug_aranges
-                0x000000c8       0x30 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
+                0x000000d8       0x20 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
  .debug_aranges
-                0x000000f8       0x20 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+                0x000000f8       0x20 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
  .debug_aranges
-                0x00000118       0x70 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x00000118       0x30 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
  .debug_aranges
-                0x00000188       0x28 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x00000148       0x20 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
  .debug_aranges
-                0x000001b0       0x40 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+                0x00000168       0x80 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
  .debug_aranges
-                0x000001f0       0x30 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
+                0x000001e8       0x28 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
  .debug_aranges
-                0x00000220       0x28 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
+                0x00000210       0x40 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
  .debug_aranges
-                0x00000248       0xf0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x00000250       0x30 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
  .debug_aranges
-                0x00000338       0xe8 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x00000280       0x28 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
  .debug_aranges
-                0x00000420       0x90 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x000002a8       0xf0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
  .debug_aranges
-                0x000004b0       0x58 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x00000398       0xe8 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
  .debug_aranges
-                0x00000508       0x88 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x00000480       0x90 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
  .debug_aranges
-                0x00000590      0x3d0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x00000510       0xe8 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .debug_aranges
-                0x00000960      0x168 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+                0x000005f8       0x90 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .debug_aranges
-                0x00000ac8      0x208 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x00000688       0x58 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_aranges
+                0x000006e0       0x88 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_aranges
+                0x00000768      0x3d0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_aranges
+                0x00000b38      0x168 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x00000ca0      0x208 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
 
 .debug_rnglists
-                0x00000000      0x9b5
+                0x00000000      0xb11
  .debug_rnglists
-                0x00000000       0x13 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
+                0x00000000       0x13 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj
  .debug_rnglists
-                0x00000013       0x2c CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
+                0x00000013       0x13 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
  .debug_rnglists
-                0x0000003f       0x19 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+                0x00000026       0x2c CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
  .debug_rnglists
-                0x00000058       0x13 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
+                0x00000052       0x19 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
  .debug_rnglists
-                0x0000006b       0x14 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
+                0x0000006b       0x21 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
  .debug_rnglists
-                0x0000007f       0x20 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
+                0x0000008c       0x13 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
  .debug_rnglists
-                0x0000009f       0x13 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+                0x0000009f       0x14 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
  .debug_rnglists
-                0x000000b2       0x4f CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x000000b3       0x20 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
  .debug_rnglists
-                0x00000101       0x1a CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x000000d3       0x13 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
  .debug_rnglists
-                0x0000011b       0x2f CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+                0x000000e6       0x5b CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
  .debug_rnglists
-                0x0000014a       0x20 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
+                0x00000141       0x1a CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
  .debug_rnglists
-                0x0000016a       0x19 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
+                0x0000015b       0x2f CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
  .debug_rnglists
-                0x00000183       0xaf CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x0000018a       0x20 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
  .debug_rnglists
-                0x00000232       0xa9 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x000001aa       0x19 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
  .debug_rnglists
-                0x000002db       0x6c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x000001c3       0xaf CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
  .debug_rnglists
-                0x00000347       0x3f CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x00000272       0xb0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
  .debug_rnglists
-                0x00000386       0x75 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x00000322       0x6c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
  .debug_rnglists
-                0x000003fb      0x2ff CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x0000038e       0xa9 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .debug_rnglists
-                0x000006fa      0x11a CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+                0x00000437       0x6c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .debug_rnglists
-                0x00000814      0x1a1 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x000004a3       0x3f CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_rnglists
+                0x000004e2       0x75 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_rnglists
+                0x00000557      0x2ff CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_rnglists
+                0x00000856      0x11a CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_rnglists
+                0x00000970      0x1a1 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
 
-.debug_line     0x00000000     0xedab
- .debug_line    0x00000000      0x2aa CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
- .debug_line    0x000002aa      0x446 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
- .debug_line    0x000006f0      0x402 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
- .debug_line    0x00000af2      0x208 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
- .debug_line    0x00000cfa      0x23b CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
- .debug_line    0x00000f35      0x41d CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
- .debug_line    0x00001352      0x1c4 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_line    0x00001516      0x363 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_line    0x00001879      0x28c CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_line    0x00001b05      0x6a2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
- .debug_line    0x000021a7      0x38a CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
- .debug_line    0x00002531       0x7a CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
- .debug_line    0x000025ab      0x60b CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_line    0x00002bb6      0x8b3 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_line    0x00003469      0xebc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
- .debug_line    0x00004325      0x742 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_line    0x00004a67      0xc0e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_line    0x00005675     0x46f9 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
- .debug_line    0x00009d6e     0x1adc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
- .debug_line    0x0000b84a     0x3561 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+.debug_line     0x00000000    0x112b9
+ .debug_line    0x00000000      0x29b CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj
+ .debug_line    0x0000029b      0x2aa CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
+ .debug_line    0x00000545      0x446 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
+ .debug_line    0x0000098b      0x402 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+ .debug_line    0x00000d8d      0x4e8 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
+ .debug_line    0x00001275      0x210 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
+ .debug_line    0x00001485      0x23b CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
+ .debug_line    0x000016c0      0x439 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00001af9      0x1c4 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_line    0x00001cbd      0x3bb CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_line    0x00002078      0x28c CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_line    0x00002304      0x6a2 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+ .debug_line    0x000029a6      0x38a CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
+ .debug_line    0x00002d30       0x7a CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
+ .debug_line    0x00002daa      0x60b CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_line    0x000033b5     0x1084 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .debug_line    0x00004439      0xc8b CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .debug_line    0x000050c4      0x8b3 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_line    0x00005977      0xebc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_line    0x00006833      0x742 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_line    0x00006f75      0xc0e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_line    0x00007b83     0x46f9 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_line    0x0000c27c     0x1adc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_line    0x0000dd58     0x3561 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
 
-.debug_str      0x00000000     0x3e8b
- .debug_str     0x00000000     0x3e8b CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
-                                0x7e4 (size before relaxing)
- .debug_str     0x00003e8b      0x83b CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
- .debug_str     0x00003e8b      0x746 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
- .debug_str     0x00003e8b      0x6a4 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
- .debug_str     0x00003e8b      0x3a9 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
- .debug_str     0x00003e8b      0x53c CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
- .debug_str     0x00003e8b      0x2ea CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_str     0x00003e8b      0x735 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_str     0x00003e8b      0x34b CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_str     0x00003e8b      0xbda CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
- .debug_str     0x00003e8b      0xc41 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
- .debug_str     0x00003e8b       0x89 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
- .debug_str     0x00003e8b      0xa36 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_str     0x00003e8b      0xb03 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_str     0x00003e8b      0x78e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
- .debug_str     0x00003e8b      0x50a CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_str     0x00003e8b      0x730 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_str     0x00003e8b     0x1717 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
- .debug_str     0x00003e8b      0xf23 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
- .debug_str     0x00003e8b      0xdb3 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+.debug_str      0x00000000     0x467c
+ .debug_str     0x00000000     0x467c CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj
+                                0x608 (size before relaxing)
+ .debug_str     0x0000467c      0x7e4 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
+ .debug_str     0x0000467c      0x83b CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
+ .debug_str     0x0000467c      0x746 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+ .debug_str     0x0000467c      0xc1e CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
+ .debug_str     0x0000467c      0x6a4 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
+ .debug_str     0x0000467c      0x3a9 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
+ .debug_str     0x0000467c      0x560 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
+ .debug_str     0x0000467c      0x2ea CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_str     0x0000467c      0x905 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_str     0x0000467c      0x34b CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_str     0x0000467c      0xbda CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+ .debug_str     0x0000467c      0xc41 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
+ .debug_str     0x0000467c       0x89 CMakeFiles/Cyclone_V2.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
+ .debug_str     0x0000467c      0xa36 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_str     0x0000467c      0x97a CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .debug_str     0x0000467c      0x9ce CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .debug_str     0x0000467c      0xb03 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_str     0x0000467c      0x78e CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_str     0x0000467c      0x50a CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_str     0x0000467c      0x730 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_str     0x0000467c     0x1717 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_str     0x0000467c      0xf23 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_str     0x0000467c      0xdb3 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
 
 .comment        0x00000000       0x45
- .comment       0x00000000       0x45 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
+ .comment       0x00000000       0x45 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj
                                  0x46 (size before relaxing)
+ .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
  .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
  .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
  .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
  .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
  .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
@@ -2862,6 +3071,8 @@ LOAD C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eab
  .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
  .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
  .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
  .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
@@ -2870,64 +3081,74 @@ LOAD C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eab
  .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
  .comment       0x00000045       0x46 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
 
-.debug_frame    0x00000000     0x2310
- .debug_frame   0x00000000       0x28 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
- .debug_frame   0x00000028       0x90 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
- .debug_frame   0x000000b8       0x64 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
- .debug_frame   0x0000011c       0x2c CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
- .debug_frame   0x00000148       0x30 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
- .debug_frame   0x00000178       0x58 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
- .debug_frame   0x000001d0       0x28 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_frame   0x000001f8       0xd8 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_frame   0x000002d0       0x30 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_frame   0x00000300       0xb0 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
- .debug_frame   0x000003b0       0x60 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
- .debug_frame   0x00000410      0x1ec CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_frame   0x000005fc      0x1f4 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_frame   0x000007f0      0x188 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
- .debug_frame   0x00000978       0xd4 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_frame   0x00000a4c      0x16c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_frame   0x00000bb8      0xb18 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
- .debug_frame   0x000016d0      0x418 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
- .debug_frame   0x00001ae8      0x5dc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
- .debug_frame   0x000020c4       0x2c C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
- .debug_frame   0x000020f0       0x34 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
- .debug_frame   0x00002124       0x2c C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
- .debug_frame   0x00002150       0x2c C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
- .debug_frame   0x0000217c       0xb0 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
- .debug_frame   0x0000222c       0x5c C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
- .debug_frame   0x00002288       0x20 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
- .debug_frame   0x000022a8       0x34 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
- .debug_frame   0x000022dc       0x34 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+.debug_frame    0x00000000     0x27cc
+ .debug_frame   0x00000000       0x28 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj
+ .debug_frame   0x00000028       0x28 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj
+ .debug_frame   0x00000050       0x90 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
+ .debug_frame   0x000000e0       0x64 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
+ .debug_frame   0x00000144       0x6c CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
+ .debug_frame   0x000001b0       0x30 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj
+ .debug_frame   0x000001e0       0x30 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj
+ .debug_frame   0x00000210       0x58 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x00000268       0x28 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_frame   0x00000290      0x108 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_frame   0x00000398       0x30 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_frame   0x000003c8       0xb0 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+ .debug_frame   0x00000478       0x60 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
+ .debug_frame   0x000004d8      0x1ec CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_frame   0x000006c4      0x268 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .debug_frame   0x0000092c      0x18c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .debug_frame   0x00000ab8      0x1f4 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_frame   0x00000cac      0x188 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_frame   0x00000e34       0xd4 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_frame   0x00000f08      0x16c CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_frame   0x00001074      0xb18 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_frame   0x00001b8c      0x418 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_frame   0x00001fa4      0x5dc CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_frame   0x00002580       0x2c C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x000025ac       0x34 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x000025e0       0x2c C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .debug_frame   0x0000260c       0x2c C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+ .debug_frame   0x00002638       0xb0 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .debug_frame   0x000026e8       0x5c C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .debug_frame   0x00002744       0x20 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .debug_frame   0x00002764       0x34 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .debug_frame   0x00002798       0x34 C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
 
 .debug_loclists
-                0x00000000     0x91de
+                0x00000000     0xa2fe
  .debug_loclists
                 0x00000000       0xd7 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj
  .debug_loclists
                 0x000000d7       0x79 CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj
  .debug_loclists
-                0x00000150       0xfa CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x00000150       0x5c CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj
  .debug_loclists
-                0x0000024a       0xba CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
+                0x000001ac       0xfa CMakeFiles/Cyclone_V2.elf.dir/Core/Src/system_stm32f4xx.c.obj
  .debug_loclists
-                0x00000304       0x75 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
+                0x000002a6       0xba CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj
  .debug_loclists
-                0x00000379       0xe1 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x00000360       0x75 CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj
  .debug_loclists
-                0x0000045a      0x54d CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x000003d5       0xe1 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
  .debug_loclists
-                0x000009a7      0x88a CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x000004b6      0x8af CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
  .debug_loclists
-                0x00001231      0x386 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x00000d65      0x815 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
  .debug_loclists
-                0x000015b7      0x3e5 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x0000157a      0x54d CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .debug_loclists
-                0x0000199c     0x37d9 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x00001ac7      0x88a CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .debug_loclists
-                0x00005175     0x13e0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+                0x00002351      0x386 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
  .debug_loclists
-                0x00006555     0x2c89 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x000026d7      0x3e5 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_loclists
+                0x00002abc     0x37d9 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_loclists
+                0x00006295     0x13e0 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_loclists
+                0x00007675     0x2c89 CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
 
 .debug_line_str
                 0x00000000      0x13f

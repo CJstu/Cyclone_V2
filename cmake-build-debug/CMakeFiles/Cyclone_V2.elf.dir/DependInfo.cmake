@@ -32,10 +32,14 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_5048a.c" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5048a.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5048a.c.obj.d"
+  "E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_5600.c" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5600.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5600.c.obj.d"
+  "E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_adc.c" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_drv8302.c" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_drv8302.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_pwm.c" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_pwm.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_pwm.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_rgb.c" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_usart.c" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj.d"
+  "E:/32_workspace/Cyclone_V2/Core/Src/adc.c" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Core/Src/dma.c" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Core/Src/gpio.c" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Core/Src/main.c" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/main.c.obj.d"
@@ -47,6 +51,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "E:/32_workspace/Cyclone_V2/Core/Src/tim.c" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/tim.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Core/Src/usart.c" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj.d"
+  "E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj.d"
+  "E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj.d"
@@ -62,6 +68,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj.d"
   "E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj.d"
+  "E:/32_workspace/Cyclone_V2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj" "gcc" "CMakeFiles/Cyclone_V2.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
