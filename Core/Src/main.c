@@ -101,9 +101,12 @@ int main(void)
 
   // RGB_SetOne_Color(1, color2);//RGB2
   // RGB_SetOne_Color(0, color7);//RGB1
-  RGB_SetMore_Color(0,1,table[3]);
+  RGB_SetMore_Color(0,1,table[11]);
   RGB_Flush();
-
+  HAL_Delay(100);
+  __HAL_TIM_SetCompare(&htim1,TIM_CHANNEL_1,600);
+  __HAL_TIM_SetCompare(&htim1,TIM_CHANNEL_2,700);
+  __HAL_TIM_SetCompare(&htim1,TIM_CHANNEL_3,300);
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -113,7 +116,13 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-    HAL_Delay(100);
+    Bsp_Adc_get_ADC(0);
+    Bsp_Adc_get_ADC(1);
+    Bsp_Adc_get_ADC(2);
+    Bsp_Adc_get_ADC(3);
+    // Bsp_Adc_get_ADC(4);
+    // Bsp_Adc_get_ADC(5);
+    HAL_Delay(200);
   }
   /* USER CODE END 3 */
 }

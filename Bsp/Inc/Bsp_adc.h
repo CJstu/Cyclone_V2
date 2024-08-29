@@ -9,4 +9,5 @@
 extern uint16_t adcBuf[];
 
 void Bsp_Adc_Init(void);
+void Bsp_Adc_get_ADC(uint8_t AD_num);
 #endif //BSP_ADC_H
