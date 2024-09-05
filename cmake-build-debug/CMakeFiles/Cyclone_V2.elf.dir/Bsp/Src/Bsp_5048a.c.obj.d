@@ -65,4 +65,5 @@ CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5048a.c.obj: \
  E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_drv8302.h \
  E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_rgb.h \
  E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_5600.h \
- E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_adc.h
+ E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_adc.h \
+ E:\32_workspace\Cyclone_V2\Core\Inc/tim.h

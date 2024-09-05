@@ -65,8 +65,8 @@ CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_rgb.c.obj: \
  E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_drv8302.h \
  E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_5600.h \
  E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_5048a.h \
- E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_adc.h \
  E:\32_workspace\Cyclone_V2\Core\Inc/tim.h \
+ E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_adc.h \
  C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/stdlib.h \
  C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/machine/stdlib.h \
  C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/alloca.h

@@ -9,6 +9,6 @@ CMake Deprecation Warning:
 
 
 -- Minimal optimization, debug info included
--- Configuring done (0.2s)
+-- Configuring done (0.3s)
 -- Generating done (0.0s)
 -- Build files have been written to: E:/32_workspace/Cyclone_V2/cmake-build-debug

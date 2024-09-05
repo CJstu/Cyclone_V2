@@ -35,6 +35,7 @@ CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5048a.c.obj: E:/32_workspace/Cyclone_V
   E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_usart.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/main.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/stm32f4xx_hal_conf.h \
+  E:/32_workspace/Cyclone_V2/Core/Inc/tim.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/usart.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
@@ -101,6 +102,7 @@ CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_5600.c.obj: E:/32_workspace/Cyclone_V2
   E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_usart.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/main.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/stm32f4xx_hal_conf.h \
+  E:/32_workspace/Cyclone_V2/Core/Inc/tim.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/usart.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
@@ -168,6 +170,7 @@ CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_adc.c.obj: E:/32_workspace/Cyclone_V2/
   E:/32_workspace/Cyclone_V2/Core/Inc/adc.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/main.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/stm32f4xx_hal_conf.h \
+  E:/32_workspace/Cyclone_V2/Core/Inc/tim.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/usart.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
@@ -301,6 +304,7 @@ CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_pwm.c.obj: E:/32_workspace/Cyclone_V2/
   E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_usart.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/main.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/stm32f4xx_hal_conf.h \
+  E:/32_workspace/Cyclone_V2/Core/Inc/tim.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/usart.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
@@ -437,6 +441,7 @@ CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj: E:/32_workspace/Cyclone_V
   E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_usart.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/main.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/stm32f4xx_hal_conf.h \
+  E:/32_workspace/Cyclone_V2/Core/Inc/tim.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/usart.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
@@ -504,6 +509,7 @@ CMakeFiles/Cyclone_V2.elf.dir/Core/Src/adc.c.obj: E:/32_workspace/Cyclone_V2/Cor
   E:/32_workspace/Cyclone_V2/Core/Inc/adc.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/main.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/stm32f4xx_hal_conf.h \
+  E:/32_workspace/Cyclone_V2/Core/Inc/tim.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/usart.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
@@ -571,6 +577,7 @@ CMakeFiles/Cyclone_V2.elf.dir/Core/Src/dma.c.obj: E:/32_workspace/Cyclone_V2/Cor
   E:/32_workspace/Cyclone_V2/Core/Inc/dma.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/main.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/stm32f4xx_hal_conf.h \
+  E:/32_workspace/Cyclone_V2/Core/Inc/tim.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/usart.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
@@ -638,6 +645,7 @@ CMakeFiles/Cyclone_V2.elf.dir/Core/Src/gpio.c.obj: E:/32_workspace/Cyclone_V2/Co
   E:/32_workspace/Cyclone_V2/Core/Inc/gpio.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/main.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/stm32f4xx_hal_conf.h \
+  E:/32_workspace/Cyclone_V2/Core/Inc/tim.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/usart.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
@@ -774,6 +782,7 @@ CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj: E:/32_workspace/
   E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_usart.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/main.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/stm32f4xx_hal_conf.h \
+  E:/32_workspace/Cyclone_V2/Core/Inc/tim.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/usart.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
@@ -841,6 +850,7 @@ CMakeFiles/Cyclone_V2.elf.dir/Core/Src/stm32f4xx_it.c.obj: E:/32_workspace/Cyclo
   E:/32_workspace/Cyclone_V2/Core/Inc/main.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/stm32f4xx_hal_conf.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/stm32f4xx_it.h \
+  E:/32_workspace/Cyclone_V2/Core/Inc/tim.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/usart.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
@@ -1083,6 +1093,7 @@ CMakeFiles/Cyclone_V2.elf.dir/Core/Src/usart.c.obj: E:/32_workspace/Cyclone_V2/C
   E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_usart.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/main.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/stm32f4xx_hal_conf.h \
+  E:/32_workspace/Cyclone_V2/Core/Inc/tim.h \
   E:/32_workspace/Cyclone_V2/Core/Inc/usart.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h \
   E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
@@ -1954,6 +1965,8 @@ E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_rgb.h:
 
 E:/32_workspace/Cyclone_V2/Bsp/Inc/Bsp_usart.h:
 
+E:/32_workspace/Cyclone_V2/Core/Inc/tim.h:
+
 E:/32_workspace/Cyclone_V2/Core/Inc/usart.h:
 
 E:/32_workspace/Cyclone_V2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h:
@@ -1999,8 +2012,6 @@ E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_adc.c:
 E:/32_workspace/Cyclone_V2/Core/Inc/adc.h:
 
 E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_drv8302.c:
-
-E:/32_workspace/Cyclone_V2/Core/Inc/tim.h:
 
 E:/32_workspace/Cyclone_V2/Bsp/Src/Bsp_rgb.c:
 

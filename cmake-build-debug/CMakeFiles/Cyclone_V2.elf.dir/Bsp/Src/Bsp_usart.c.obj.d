@@ -46,9 +46,10 @@ CMakeFiles/Cyclone_V2.elf.dir/Bsp/Src/Bsp_usart.c.obj: \
  E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_rgb.h \
  E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_5600.h \
  E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_5048a.h \
+ E:\32_workspace\Cyclone_V2\Core\Inc/tim.h \
+ E:\32_workspace\Cyclone_V2\Core\Inc/main.h \
  E:\32_workspace\Cyclone_V2\Bsp\Inc/Bsp_adc.h \
  E:\32_workspace\Cyclone_V2\Core\Inc/usart.h \
- E:\32_workspace\Cyclone_V2\Core\Inc/main.h \
  C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/stdio.h \
  C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/_ansi.h \
  C:/stm32_enviroment/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/newlib.h \

@@ -95,18 +95,21 @@ int main(void)
   MX_TIM1_Init();
   MX_TIM3_Init();
   MX_ADC1_Init();
+  MX_TIM2_Init();
   /* USER CODE BEGIN 2 */
   Bsp_Drv8302_Init();
   Bsp_Adc_Init();
 
   // RGB_SetOne_Color(1, color2);//RGB2
   // RGB_SetOne_Color(0, color7);//RGB1
-  RGB_SetMore_Color(0,1,table[11]);
-  RGB_Flush();
+  // RGB_SetMore_Color(0,1,table[11]);
+  // RGB_Flush();
   HAL_Delay(100);
-  __HAL_TIM_SetCompare(&htim1,TIM_CHANNEL_1,600);
-  __HAL_TIM_SetCompare(&htim1,TIM_CHANNEL_2,700);
-  __HAL_TIM_SetCompare(&htim1,TIM_CHANNEL_3,300);
+  __HAL_TIM_SetCompare(&htim1,TIM_CHANNEL_1,0);
+  __HAL_TIM_SetCompare(&htim1,TIM_CHANNEL_2,0);
+  __HAL_TIM_SetCompare(&htim1,TIM_CHANNEL_3,0);
+
+  Freq_Meter_Init();
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -116,12 +119,8 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-    Bsp_Adc_get_ADC(0);
-    Bsp_Adc_get_ADC(1);
-    Bsp_Adc_get_ADC(2);
-    Bsp_Adc_get_ADC(3);
-    // Bsp_Adc_get_ADC(4);
-    // Bsp_Adc_get_ADC(5);
+    motorAbsAngle = get_angle();
+    Printf(USART1,"Angle:%.2f\r\n",motorAbsAngle);
     HAL_Delay(200);
   }
   /* USER CODE END 3 */
